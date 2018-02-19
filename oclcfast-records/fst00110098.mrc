@@ -1,0 +1,18 @@
+00708cz   2200193n  4500
+001 fst00110098
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00110098 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a ML410.A547 |c Biography 
+100 1_ |a Anchieta, Juan de, |d 1462-1523 
+400 1_ |a De Anchieta, Juan, |d 1462-1523 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Anchieta, Juan de, |d 1462-1523 |0 (DLC)n 83036117 
+700 04 |a Juan de Anchieta |0 
+          (uri)http://en.wikipedia.org/wiki/Juan_de_Anchieta |9 Feb2015 
+700 10 |a Anchieta, Juan de, |d 1462-1523 |0 (viaf)51878053 |0 
+          (uri)https://viaf.org/viaf/51878053 |9 Feb2015 
+

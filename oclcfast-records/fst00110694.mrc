@@ -1,0 +1,32 @@
+01501cz   2200337n  4500
+001 fst00110694
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00110694 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Corbally, John E. |q (John Edward), |d 1924-2004 
+370 __ |a South Bend (Wash.) |b Mill Creek (Wash.) |e Bothell (Wash.) |2 naf 
+372 __ |a School management and organization |a Universities and 
+          colleges--Administration |a Education--Finance |2 lcsh 
+373 __ |a John D. and Catherine T. MacArthur Foundation |2 naf |s 1980 |t 
+          1989 
+373 __ |a University of Illinois (System) |2 naf |s 1971 |t 1979 
+373 __ |a Syracuse University |2 naf |s 1969 |t 1971 
+373 __ |a Ohio State University |2 naf |s 1955 |t 1969 
+374 __ |a Educators |a College teachers |a College administrators |a College 
+          presidents |a Endowments--Officials and employees |2 lcsh 
+375 __ |a male 
+377 __ |a eng 
+378 __ |q John Edward 
+400 1_ |a Corbally, J. E., |c Jr. |q (John Edward), |d 1924-2004 
+400 1_ |a Corbally, Jack, |d 1924-2004 
+400 1_ |a Corbally, John E. |q (John Edward), |d 1924- |w nne 
+400 1_ |a Corbally, John E., |c Jr. |q (John Edward), |d 1924-2004 
+400 1_ |a Corbally, John Edward, |d 1924- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Corbally, John E. |q (John Edward), |d 1924-2004 |0 (DLC)n 83042965 
+700 10 |a Corbally, John E. |q (John Edward), |d 1924- |0 (viaf)94944481 |0 
+          (uri)https://viaf.org/viaf/94944481 |9 Feb2015 
+

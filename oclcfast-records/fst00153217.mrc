@@ -1,0 +1,24 @@
+00820cz   2200265n  4500
+001 fst00153217
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00153217 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1791 |g 1867 
+100 1_ |a Bopp, Franz, |d 1791-1867 
+374 __ |a Author 
+374 __ |a Linguist 
+375 __ |a male 
+377 __ |a ger 
+377 __ |a lat 
+400 1_ |a Bopp, Francisco, |d 1791-1867 
+400 1_ |a Bopp, Franciscus, |d 1791-1867 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 33 
+700 10 |a Bopp, Franz, |d 1791-1867 |0 (DLC)n 85116998 
+700 04 |a Franz Bopp |0 (uri)http://en.wikipedia.org/wiki/Franz_Bopp |9 
+          Feb2015 
+700 10 |a Bopp, Franz, |d 1791-1867 |0 (viaf)61614118 |0 
+          (uri)https://viaf.org/viaf/61614118 |9 Feb2015 
+

@@ -1,0 +1,21 @@
+00907cz   2200217n  4500
+001 fst00586090
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00586090 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a SODRE (Organization : Uruguay) 
+410 2_ |a S.O.D.R.E. 
+410 1_ |a Uruguay. |b Ministerio de Educaciâon y Cultura. |b Servicio Oficial 
+          de Difusiâon Radio Elâectrica 
+410 1_ |a Uruguay. |b Servicio Oficial de Difusiâon Radio Elâectrica 
+410 1_ |a Uruguay. |b Servicio Oficial de Difusiâon Radioelâetrica 
+410 1_ |a Uruguay. |b Servicio Oficial del Difusiâon Radiotelevisiâon y 
+          Espectâaculos 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 11 
+710 20 |a SODRE (Organization : Uruguay) |0 (DLC)n 83230383 
+710 20 |a SODRE (Organization : Uruguay) |0 (viaf)149731715 |0 
+          (uri)https://viaf.org/viaf/149731715 |9 Feb2015 
+

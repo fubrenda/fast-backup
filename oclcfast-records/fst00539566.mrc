@@ -1,0 +1,15 @@
+00573cz   2200169n  4500
+001 fst00539566
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00539566 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Fukui Shiritsu Toshokan 
+410 1_ |a Fukui, Japan (Fukui Prefecture). |b Toshokan 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Fukui Shiritsu Toshokan |0 (DLC)n 79144561 
+710 20 |a Fukui Shiritsu Toshokan |0 (viaf)125482175 |0 
+          (uri)https://viaf.org/viaf/125482175 |9 Feb2015 
+

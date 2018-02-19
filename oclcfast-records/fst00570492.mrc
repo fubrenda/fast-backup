@@ -1,0 +1,13 @@
+00472xz   2200145n  4500
+001 fst00570492
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00570492 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Malayan Union. |b Labour Dept. 
+551 __ |a Malaya |z Malayan Union |0 (OCoLC)fst01219852 
+710 17 |a Malayan Union. |b Labour Department |w na |0 (OCoLC)fst01832478 |2 
+          fast 
+710 10 |a Malayan Union. |b Labour Dept. |0 (DLC)n 82094613 
+

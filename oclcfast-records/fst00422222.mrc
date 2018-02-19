@@ -1,0 +1,15 @@
+00533cz   2200169n  4500
+001 fst00422222
+003 OCoLC
+005 20130405150554.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00422222 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ji, Pu, |d 1793-1867 
+400 1_ |a Chi, P°u, |d 1793-1867 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Ji, Pu, |d 1793-1867 |0 (DLC)nr 98030279 
+700 10 |a Ji, Pu, |d 1793-1867 |0 (viaf)39292309 |0 
+          (uri)https://viaf.org/viaf/39292309 |9 Feb2015 
+

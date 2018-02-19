@@ -1,0 +1,15 @@
+00517cz   2200169n  4500
+001 fst00142403
+003 OCoLC
+005 20130405150554.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00142403 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Chen, Yongkang 
+400 1_ |a Ch°en, Yung-k°ang 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Chen, Yongkang |0 (DLC)n 84226402 
+700 10 |a Chen, Yongkang |0 (viaf)58031473 |0 
+          (uri)https://viaf.org/viaf/58031473 |9 Feb2015 
+

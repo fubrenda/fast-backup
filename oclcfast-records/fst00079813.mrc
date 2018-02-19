@@ -1,0 +1,17 @@
+00601cz   2200193n  4500
+001 fst00079813
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00079813 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Kahn, Arthur David 
+400 1_ |a Kan, Artur 
+400 1_ |a Kahn, Arthur 
+400 1_ |a Kahn, Arthur D. |q (Arthur David) 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Kahn, Arthur David |0 (DLC)n 81110569 
+700 10 |a Kahn, Arthur David |0 (viaf)39501849 |0 
+          (uri)https://viaf.org/viaf/39501849 |9 Feb2015 
+

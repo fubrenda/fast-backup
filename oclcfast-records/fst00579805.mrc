@@ -1,0 +1,15 @@
+00635cz   2200169n  4500
+001 fst00579805
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00579805 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a University of Ottawa. |b Faculty of Philosophy 
+510 2_ |a University of Ottawa |0 (OCoLC)fst00549647 |w b 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+710 20 |a University of Ottawa. |b Faculty of Philosophy |0 (DLC)n 83033824 
+710 20 |a University of Ottawa. |b Faculty of Philosophy |0 (viaf)153552309 
+       |0 (uri)https://viaf.org/viaf/153552309 |9 Feb2015 
+

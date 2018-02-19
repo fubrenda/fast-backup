@@ -1,0 +1,19 @@
+00746cz   2200181n  4500
+001 fst00526745
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00526745 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a ‚Electricit‚e de France. |b Direction des affaires ext‚erieures et 
+          de la coop‚eration 
+410 2_ |a D.A.F.E.C.O. 
+410 2_ |a DAFECO 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a ‚Electricit‚e de France. |b Direction des affaires ext‚erieures et 
+          de la coop‚eration |0 (DLC)n 78054458 
+710 20 |a ‚Electricit‚e de France. |b Direction des affaires ext‚erieures et 
+          de la coop‚eration |0 (viaf)263415321 |0 
+          (uri)https://viaf.org/viaf/263415321 |9 Feb2015 
+

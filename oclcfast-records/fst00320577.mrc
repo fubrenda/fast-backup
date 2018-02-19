@@ -1,0 +1,12 @@
+00447xz   2200133n  4500
+001 fst00320577
+003 OCoLC
+005 20111018095611.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00320577 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Fisher, A. Hugh |q (Alfred Hugh), |d b. 1867 
+700 17 |a Fisher, A. Hugh |q (Alfred Hugh), |d 1867-1945 |w na |0 
+          (OCoLC)fst01772662 |2 fast 
+700 10 |a Fisher, A. Hugh |q (Alfred Hugh), |d b. 1867 |0 (DLC)nr 93014634 
+

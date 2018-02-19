@@ -1,0 +1,14 @@
+00502xz   2200169n  4500
+001 fst00309876
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00309876 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Chanin, N., |d d. 1965 
+400 1_ |a Khanin, Naòhum, |d d. 1965 
+400 1_ |a Khanin, N., |d d. 1965 
+400 1_ |a Chanin, Nathan, |d d. 1965 
+700 17 |a Chanin, N., |d -1965 |w na |0 (OCoLC)fst01812104 |2 fast 
+700 10 |a Chanin, N., |d d. 1965 |0 (DLC)no 92022435 
+

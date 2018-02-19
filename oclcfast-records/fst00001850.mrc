@@ -1,0 +1,12 @@
+00436xz   2200145n  4500
+001 fst00001850
+003 OCoLC
+005 20130327095541.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00001850 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Maunz, Theodor, |d 1901- 
+400 1_ |a Maunëtìs, Teodor, |d 1901- 
+700 _7 |a Maunz, Theodor, |d 1901-1993 |w na |0 (OCoLC)fst01802437 |2 fast 
+700 10 |a Maunz, Theodor, |d 1901- |0 (DLC)n 50006900 
+

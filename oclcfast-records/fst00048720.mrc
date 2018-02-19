@@ -1,0 +1,16 @@
+00601cz   2200169n  4500
+001 fst00048720
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00048720 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Brown, Jacob, |d 1775-1828 
+688 __ |a LC (2016) Subject Usage: 11 
+688 __ |a WC (2016) Subject Usage: 68 
+700 10 |a Brown, Jacob, |d 1775-1828 |0 (DLC)n 80005152 
+700 04 |a Jacob Brown |0 (uri)http://en.wikipedia.org/wiki/Jacob_Brown |9 
+          Feb2015 
+700 10 |a Brown, Jacob, |d 1775-1828 |0 (viaf)94412912 |0 
+          (uri)https://viaf.org/viaf/94412912 |9 Feb2015 
+

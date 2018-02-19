@@ -1,0 +1,15 @@
+00594xz   2200169n  4500
+001 fst00018622
+003 OCoLC
+005 20140110141034.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00018622 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Di San Lazzaro, G. |q (Gualtieri), |d 1908- 
+400 1_ |a San Lazzaro, Gualtieri di 
+400 1_ |a San Lazzaro, G. di |q (Gualtieri), |d 1908- 
+400 1_ |a Di San Lazzaro, Gualtieri, |d 1908- 
+700 17 |a Di San Lazzaro, G. |q (Gualtieri), |d 1908-1974 |w na |0 
+          (OCoLC)fst01899585 |2 fast 
+700 10 |a Di San Lazzaro, G. |q (Gualtieri), |d 1908- |0 (DLC)n 50059869 
+

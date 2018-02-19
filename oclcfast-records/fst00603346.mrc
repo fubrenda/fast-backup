@@ -1,0 +1,21 @@
+00917cz   2200217n  4500
+001 fst00603346
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00603346 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Compaänâia de Fomento Cinematogrâafico (Colombia) 
+410 1_ |a Colombia. |b Compaänâia de Fomento Cinematogrâafico 
+410 1_ |a Colombia. |b Ministerio de Comunicaciones. |b Compaänâia de Fomento 
+          Cinematogrâafico 
+410 2_ |a Empresa de Fomento Cinematogrâafico (Colombia) 
+410 2_ |a FOCINE 
+510 1_ |a Colombia. |b Ministerio de Comunicaciones |0 (OCoLC)fst00563084 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 4 
+710 20 |a Compaänâia de Fomento Cinematogrâafico (Colombia) |0 (DLC)n 
+          84195228 
+710 20 |a Compaänâia de Fomento Cinematogrâafico (Colombia) |0 
+          (viaf)168407945 |0 (uri)https://viaf.org/viaf/168407945 |9 Feb2015 
+

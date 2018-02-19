@@ -1,0 +1,15 @@
+00525cz   2200169n  4500
+001 fst00121922
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00121922 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ganovski, Sava 
+400 1_ |a Ganovski, Sava ÎTÏSolov 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 7 
+700 10 |a Ganovski, Sava |0 (DLC)n 83223057 
+700 10 |a Ganovski, Sava |0 (viaf)79517946 |0 
+          (uri)https://viaf.org/viaf/79517946 |9 Feb2015 
+

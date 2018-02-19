@@ -1,0 +1,16 @@
+00639cz   2200181n  4500
+001 fst00580539
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00580539 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Sigma Nu Phi Legal Fraternity 
+410 2_ |a Sigma Nu Phi Fraternity 
+510 2_ |a Delta Theta Phi Law Fraternity |0 (OCoLC)fst00641273 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+710 20 |a Sigma Nu Phi Legal Fraternity |0 (DLC)n 83051712 
+710 20 |a Sigma Nu Phi Legal Fraternity |0 (viaf)132559583 |0 
+          (uri)https://viaf.org/viaf/132559583 |9 Feb2015 
+

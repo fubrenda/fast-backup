@@ -1,0 +1,13 @@
+00426xz   2200145n  4500
+001 fst00173306
+003 OCoLC
+005 20131219122842.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00173306 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Baez, Joan, |d 1913- 
+400 1_ |a Bridge, Joan, |d 1913- 
+700 17 |a Baez, Joan, |c Sr., |d 1913-2013 |w na |0 (OCoLC)fst01897544 |2 
+          fast 
+700 10 |a Baez, Joan, |d 1913- |0 (DLC)n 85282597 
+

@@ -1,0 +1,17 @@
+00646cz   2200181n  4500
+001 fst00394213
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00394213 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 19490602 |v Cancer genome and DNA repair, 2011 
+100 1_ |a Vogelstein, Bert 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Vogelstein, Bert |0 (DLC)n 97802274 
+700 04 |a Bert Vogelstein |0 
+          (uri)http://en.wikipedia.org/wiki/Bert_Vogelstein |9 Feb2015 
+700 10 |a Vogelstein, Bert |0 (viaf)162663780 |0 
+          (uri)https://viaf.org/viaf/162663780 |9 Feb2015 
+

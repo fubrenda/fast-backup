@@ -1,0 +1,15 @@
+00533cz   2200169n  4500
+001 fst00245048
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00245048 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PT2639.O55 
+100 1_ |a Sommer, Ernst, |d 1889- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Sommer, Ernst, |d 1889- |0 (DLC)n 88167150 
+700 10 |a Sommer, Ernst, |d 1889- |0 (viaf)66496800 |0 
+          (uri)https://viaf.org/viaf/66496800 |9 Feb2015 
+

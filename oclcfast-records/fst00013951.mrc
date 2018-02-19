@@ -1,0 +1,20 @@
+00799xz   2200229n  4500
+001 fst00013951
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00013951 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Marina, |d ca. 1505-ca. 1530 
+400 0_ |a Malinche, |d ca. 1505-ca. 1530 
+400 0_ |a Malintzin, |d ca. 1505-ca. 1530 
+400 0_ |a Malina, |d ca. 1505-ca. 1530 
+400 1_ |a Tenepal, Malinalli, |d ca. 1505-ca. 1530 
+400 0_ |a Malinalli Tenepal, |d ca. 1505-ca. 1530 
+400 0_ |a Malin, |d ca. 1505-ca. 1530 
+400 0_ |a Malinalli, |d ca. 1505-ca. 1530 
+400 0_ |a Malinali, |d ca. 1505-ca. 1530 
+700 07 |a Marina, |d approximately 1505-approximately 1530 |w na |0 
+          (OCoLC)fst01832938 |2 fast 
+700 00 |a Marina, |d ca. 1505-ca. 1530 |0 (DLC)n 50040844 
+

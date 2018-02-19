@@ -1,0 +1,17 @@
+00737cz   2200193n  4500
+001 fst00250523
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00250523 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Saldaäna, Quintiliano, |d 1878-1938 
+400 1_ |a Saldaäna y Garcia Rubio, Quintiliano, |d 1878-1938 
+400 1_ |a Garcia Rubio, Quintiliano Saldaäna y, |d 1878-1938 
+400 1_ |a Rubio, Quintiliano Saldaäna y Garcia, |d 1878-1938 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Saldaäna, Quintiliano, |d 1878-1938 |0 (DLC)n 88071626 
+700 10 |a Saldaäna, Quintiliano, |d 1878-1938 |0 (viaf)66848810 |0 
+          (uri)https://viaf.org/viaf/66848810 |9 Feb2015 
+

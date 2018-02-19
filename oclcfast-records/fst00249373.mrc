@@ -1,0 +1,14 @@
+00521cz   2200157n  4500
+001 fst00249373
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00249373 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Short, William, |d 1823-1870 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Short, William, |d 1823-1870 |0 (DLC)n 88274258 
+700 10 |a Short, William, |d 1823-1870 |0 (viaf)68037536 |0 
+          (uri)https://viaf.org/viaf/68037536 |9 Feb2015 
+

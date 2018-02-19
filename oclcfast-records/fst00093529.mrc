@@ -1,0 +1,12 @@
+00407xz   2200133n  4500
+001 fst00093529
+003 OCoLC
+005 20131219122842.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00093529 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Goodman, A. Harold, |d 1924- 
+700 17 |a Goodman, A. Harold, |d 1924-2007 |w na |0 (OCoLC)fst01898090 |2 
+          fast 
+700 10 |a Goodman, A. Harold, |d 1924- |0 (DLC)n 82077137 
+

@@ -1,0 +1,15 @@
+00624cz   2200169n  4500
+001 fst00530717
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00530717 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a United States. |b District Court (Arizona) 
+410 1_ |a United States. |b District Court. |b Arizona. 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 26 
+710 10 |a United States. |b District Court (Arizona) |0 (DLC)n 79027075 
+710 10 |a United States. |b District Court (Arizona) |0 (viaf)123140427 |0 
+          (uri)https://viaf.org/viaf/123140427 |9 Feb2015 
+

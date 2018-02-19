@@ -1,0 +1,12 @@
+00427xz   2200145n  4500
+001 fst00343169
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00343169 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Bryant, Mary, |d b. 1765 
+400 1_ |a Broad, Mary, |d b. 1765 
+700 17 |a Bryant, Mary, |d 1765- |w na |0 (OCoLC)fst01810111 |2 fast 
+700 10 |a Bryant, Mary, |d b. 1765 |0 (DLC)nr 94024849 
+

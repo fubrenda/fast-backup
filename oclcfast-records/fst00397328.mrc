@@ -1,0 +1,20 @@
+00701cz   2200217n  4500
+001 fst00397328
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00397328 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Sharåif, Nåur 
+400 1_ |a El Cherif, Nour 
+400 1_ |a Cherif, Nour El 
+400 1_ |a El-Sherif, Nour 
+400 1_ |a Sherif, Nour El- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Sharåif, Nåur |0 (DLC)nr 97031379 
+700 04 |a Nour El-Sherif |0 (uri)http://en.wikipedia.org/wiki/Nour_El-Sherif 
+       |9 Feb2015 
+700 10 |a Sharåif, Nåur |0 (viaf)66375799 |0 
+          (uri)https://viaf.org/viaf/66375799 |9 Feb2015 
+

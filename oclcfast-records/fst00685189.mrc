@@ -1,0 +1,17 @@
+00680cz   2200193n  4500
+001 fst00685189
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00685189 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Association of Historians of American Art 
+368 __ |a Associations, institutions, etc. |2 lcsh 
+372 __ |a Art, American |2 lcsh 
+410 2_ |a AHAA 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+710 20 |a Association of Historians of American Art |0 (DLC)no 93006735 
+710 20 |a Association of Historians of American Art |0 (viaf)142180325 |0 
+          (uri)https://viaf.org/viaf/142180325 |9 Feb2015 
+

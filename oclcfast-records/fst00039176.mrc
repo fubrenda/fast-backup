@@ -1,0 +1,15 @@
+00576cz   2200169n  4500
+001 fst00039176
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00039176 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Marion, Simon, |c baron de Druy 
+400 1_ |a Druy, Simon Marion, |c baron de 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Marion, Simon, |c baron de Druy |0 (DLC)n 79078095 
+700 10 |a Marion, Simon, |c baron de Druy |0 (viaf)17529070 |0 
+          (uri)https://viaf.org/viaf/17529070 |9 Feb2015 
+

@@ -1,0 +1,16 @@
+00614cz   2200181n  4500
+001 fst00408215
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00408215 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Abraham, S. |q (Samuel) 
+400 1_ |a Abraham, Samuel |c (Rabbi) 
+400 1_ |a Aibraham, Shemu®el ben Naòhum Eliyahu, |c ha-Kohen 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Abraham, S. |q (Samuel) |0 (DLC)nr 97040706 
+700 10 |a Abraham, S. |q (Samuel) |0 (viaf)178306648 |0 
+          (uri)https://viaf.org/viaf/178306648 |9 Feb2015 
+

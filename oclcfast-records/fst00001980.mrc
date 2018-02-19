@@ -1,0 +1,23 @@
+00816cz   2200265n  4500
+001 fst00001980
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00001980 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1935 
+100 1_ |a McKinnon, Ronald I. 
+370 __ |a Edmonton (Alta.) |b Burlingame (Calif.) |f Stanford (Calif.) |2 naf 
+372 __ |a Economics |2 lcsh 
+373 __ |a Stanford University |2 naf |s 1961 
+374 __ |a Economists |2 lcsh 
+375 __ |a male 
+377 __ |a eng 
+378 __ |q Ronald Ian 
+400 1_ |a Måakåinåun, Råunåald 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a McKinnon, Ronald I. |0 (DLC)n 50007266 
+700 10 |a McKinnon, Ronald I. |0 (viaf)92165895 |0 
+          (uri)https://viaf.org/viaf/92165895 |9 Feb2015 
+

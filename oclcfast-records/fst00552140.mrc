@@ -1,0 +1,31 @@
+01528cz   2200325n  4500
+001 fst00552140
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00552140 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Institut fiziologii im. I.P. Pavlova 
+410 2_ |a Akademiëiìa nauk SSSR. |b Pavlov Institute of Physiology 
+410 2_ |a Pavlov Institute of Physiology 
+410 2_ |a Akademiëiìa nauk SSSR. |b Institut fiziologii imeni I.P. Pavlova 
+410 2_ |a Akademiëiìa nauk SSSR. |b Institut fiziologii im. I.P. Pavlova 
+410 2_ |a Institut fiziologii imeni I.P. Pavlova 
+410 2_ |a I.P. Pavlov Institute of Physiology 
+410 2_ |a Ordena Trudovogo Krasnogo Znameni Institut fiziologii imeni I.P. 
+          Pavlova 
+410 2_ |a Akademiëiìa nauk SSSR. |b Otdelenie fiziologii. |b Institut 
+          fiziologii im. I.P. Pavlova 
+410 2_ |a Institut fiziologii (Akademiëiìa nauk SSSR) 
+410 2_ |a Institut fiziologii im. I.P. Pavlova AN SSSR 
+410 2_ |a Institute of Physiology nomine I.P. Pavlov 
+410 2_ |a Institut fiziologii im. I.P. Pavlova Rossiæiskoæi akademii nauk 
+410 2_ |a Rossiæiskaëiìa akademiëiìa nauk. |b Institut fiziologii im. I.P. 
+          Pavlova 
+410 2_ |a Institut fiziologii im. I.P. Pavlova RAN 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 10 
+710 20 |a Institut fiziologii im. I.P. Pavlova |0 (DLC)n 80160119 
+710 20 |a Institut fiziologii im. I.P. Pavlova |0 (viaf)129009220 |0 
+          (uri)https://viaf.org/viaf/129009220 |9 Feb2015 
+

@@ -1,0 +1,20 @@
+00741cz   2200217n  4500
+001 fst00378690
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00378690 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Halard, Franðcois 
+372 __ |a Photography |a Interior decoration |2 lcsh 
+373 __ |a House & Garden |2 naf 
+374 __ |a Photographers |2 lcsh 
+375 __ |a male 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Halard, Franðcois |0 (DLC)n 96074664 
+700 04 |a Franðcois Halard |0 
+          (uri)http://en.wikipedia.org/wiki/Franc%CC%A7ois_Halard |9 Feb2015 
+700 10 |a Halard, Franðcois |0 (viaf)44406448 |0 
+          (uri)https://viaf.org/viaf/44406448 |9 Feb2015 
+

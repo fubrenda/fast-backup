@@ -1,0 +1,15 @@
+00567cz   2200169n  4500
+001 fst00526226
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00526226 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Ma°had al-Inmåa® al-°Arabåi 
+410 2_ |a Arab Development Institute 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 3 
+710 20 |a Ma°had al-Inmåa® al-°Arabåi |0 (DLC)n 78042706 
+710 20 |a Ma°had al-Inmåa® al-°Arabåi |0 (viaf)154200513 |0 
+          (uri)https://viaf.org/viaf/154200513 |9 Feb2015 
+

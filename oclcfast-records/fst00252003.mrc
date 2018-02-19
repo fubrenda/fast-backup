@@ -1,0 +1,19 @@
+00777xz   2200217n  4500
+001 fst00252003
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00252003 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PL4659.T418 
+100 0_ |a Tinthaòni Maunåeâsvara, |d fl. 1540-1650 
+400 1_ |a Maunåeâsvara, Tinthaòni, |d fl. 1540-1650 
+400 1_ |a Maunåeâsvara, |d fl. 1540-1650 
+400 0_ |a Måonayya, |d fl. 1540-1650 
+400 0_ |a Tinthiòni Maunåeâsvara, |d fl. 1540-1650 
+400 1_ |a Maunåeâsvara, Tinthiòni, |d fl. 1540-1650 
+400 0_ |a Tinthiòni Måonappayya, |d fl. 1540-1650 
+700 07 |a Tinthaòni Maunåeâsvara, |d active 1540-1650 |w na |0 
+          (OCoLC)fst01851245 |2 fast 
+700 00 |a Tinthaòni Maunåeâsvara, |d fl. 1540-1650 |0 (DLC)n 88123020 
+

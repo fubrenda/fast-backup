@@ -1,0 +1,15 @@
+00549xz   2200169n  4500
+001 fst00147631
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00147631 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Cyrus, |c Saint, |d d. ca. 303 
+400 0_ |a Ciro, |c Saint, |d d. ca. 303 
+400 0_ |a Cyrus, |c of Alexandria, Saint, |d d. ca. 303 
+400 0_ |a Kåir, |c Apa, |d d. ca. 303 
+700 07 |a Cyrus, |c Saint, |d -approximately 303 |w na |0 (OCoLC)fst01814705 
+       |2 fast 
+700 00 |a Cyrus, |c Saint, |d d. ca. 303 |0 (DLC)n 85017454 
+

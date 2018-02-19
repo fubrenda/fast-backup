@@ -1,0 +1,11 @@
+00395xz   2200133n  4500
+001 fst00493845
+003 OCoLC
+005 20090330152002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00493845 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Manðco, Bar¸ðs, |d 1943- 
+700 10 |a Manðco, Bar¸ðs, |d 1943- |0 (DLC)n 2003062628 
+700 17 |a Manðco, Bar¸ðs, |d 1943-1999 |w na |0 (OCoLC)fst01722743 |2 fast 
+

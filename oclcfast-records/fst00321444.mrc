@@ -1,0 +1,14 @@
+00511xz   2200145n  4500
+001 fst00321444
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00321444 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Murnaghan, J. A. |q (James Augustine), |d b. 1881 
+400 1_ |a Murnaghan, James Augustine, |d b. 1881 
+700 17 |a Murnaghan, J. A. |q (James Augustine), |d 1881- |w na |0 
+          (OCoLC)fst01836485 |2 fast 
+700 10 |a Murnaghan, J. A. |q (James Augustine), |d b. 1881 |0 (DLC)no 
+          93013017 
+

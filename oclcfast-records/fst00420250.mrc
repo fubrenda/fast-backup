@@ -1,0 +1,12 @@
+00447xz   2200145n  4500
+001 fst00420250
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00420250 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Beccaria, Giovann, |d d. 1580 
+400 1_ |a Beccaria, Johann, |d d. 1580 
+700 17 |a Beccaria, Giovann, |d -1580 |w na |0 (OCoLC)fst01807264 |2 fast 
+700 10 |a Beccaria, Giovann, |d d. 1580 |0 (DLC)no 98096805 
+

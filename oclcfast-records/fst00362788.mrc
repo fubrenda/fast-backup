@@ -1,0 +1,14 @@
+00500cz   2200157n  4500
+001 fst00362788
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00362788 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Bonhomme, Bâeatrice 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 7 
+700 10 |a Bonhomme, Bâeatrice |0 (DLC)n 95094998 
+700 10 |a Bonhomme, Bâeatrice |0 (viaf)90874818 |0 
+          (uri)https://viaf.org/viaf/90874818 |9 Feb2015 
+

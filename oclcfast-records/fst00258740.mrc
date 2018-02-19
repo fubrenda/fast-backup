@@ -1,0 +1,14 @@
+00518cz   2200157n  4500
+001 fst00258740
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00258740 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Kèobner, Otto, |d 1869-1935 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Kèobner, Otto, |d 1869-1935 |0 (DLC)no 89014962 
+700 10 |a Kèobner, Otto, |d 1869-1935 |0 (viaf)64753822 |0 
+          (uri)https://viaf.org/viaf/64753822 |9 Feb2015 
+

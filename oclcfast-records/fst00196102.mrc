@@ -1,0 +1,18 @@
+00728cz   2200181n  4500
+001 fst00196102
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00196102 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Donner, Frederic G. |q (Frederic Garrett), |d 1902-1987 
+400 1_ |a Donner, Frederic G. 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Donner, Frederic G. |q (Frederic Garrett), |d 1902-1987 |0 (DLC)n 
+          86111146 
+700 04 |a Frederic G. Donner |0 
+          (uri)http://en.wikipedia.org/wiki/Frederic_G._Donner |9 Feb2015 
+700 10 |a Donner, Frederic G. |q (Frederic Garrett), |d 1902-1987 |0 
+          (viaf)28558071 |0 (uri)https://viaf.org/viaf/28558071 |9 Feb2015 
+

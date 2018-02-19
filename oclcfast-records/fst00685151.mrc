@@ -1,0 +1,19 @@
+00860cz   2200205n  4500
+001 fst00685151
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00685151 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a St. Nicholas' Collegiate Church (Galway, Ireland) 
+410 2_ |a Church of Ireland Parish of St. Nicholas (Galway, Ireland) 
+410 2_ |a Collegiate Church of St. Nicholas (Galway, Ireland) 
+410 2_ |a Parish of St. Nicholas (Galway, Ireland) 
+410 2_ |a Saint Nicholas' Collegiate Church (Galway, Ireland) 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 6 
+710 20 |a St. Nicholas' Collegiate Church (Galway, Ireland) |0 (DLC)n 
+          93023067 
+710 20 |a St. Nicholas' Collegiate Church (Galway, Ireland) |0 
+          (viaf)149071971 |0 (uri)https://viaf.org/viaf/149071971 |9 Feb2015 
+

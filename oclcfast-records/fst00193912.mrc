@@ -1,0 +1,15 @@
+00628xz   2200169n  4500
+001 fst00193912
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00193912 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Elcano, Juan Sebastiâan de, |d ca. 1476-1526 
+400 1_ |a Cano, Juan Sebastiâan del, |d d. 1526 
+400 1_ |a De Elcano, Juan Sebastiâan, |d ca. 1476-1526 
+400 1_ |a Cano, Juan Sebastiâan del, |d ca. 1476-1526 
+700 17 |a Elcano, Juan Sebastiâan de, |d approximately 1476-1526 |w na |0 
+          (OCoLC)fst01817164 |2 fast 
+700 10 |a Elcano, Juan Sebastiâan de, |d ca. 1476-1526 |0 (DLC)n 86011345 
+

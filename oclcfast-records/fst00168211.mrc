@@ -1,0 +1,19 @@
+00769cz   2200205n  4500
+001 fst00168211
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00168211 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ling, Per Henrik, |d 1776-1839 
+400 1_ |a Ling, P. H. |q (Per Henrik), |d 1776-1839 
+400 1_ |a Ling, Peter Henrik, |d 1776-1839 
+400 1_ |a Ling, Peter Henry, |d 1776-1839 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 64 
+700 10 |a Ling, Per Henrik, |d 1776-1839 |0 (DLC)n 85184744 
+700 04 |a Pehr Henrik Ling |0 
+          (uri)http://en.wikipedia.org/wiki/Pehr_Henrik_Ling |9 Feb2015 
+700 10 |a Ling, Per Henrik, |d 1776-1839 |0 (viaf)37712974 |0 
+          (uri)https://viaf.org/viaf/37712974 |9 Feb2015 
+

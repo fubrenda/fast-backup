@@ -1,0 +1,16 @@
+00614cz   2200169n  4500
+001 fst00352659
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00352659 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Klein, Bernhard, |d 1793-1832 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Klein, Bernhard, |d 1793-1832 |0 (DLC)no 95010901 
+700 04 |a Bernhard Klein |0 (uri)http://en.wikipedia.org/wiki/Bernhard_Klein 
+       |9 Feb2015 
+700 10 |a Klein, Bernhard, |d 1793-1832 |0 (viaf)69194438 |0 
+          (uri)https://viaf.org/viaf/69194438 |9 Feb2015 
+

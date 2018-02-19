@@ -1,0 +1,16 @@
+00572cz   2200169n  4500
+001 fst00052652
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00052652 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Southall, Ivan 
+688 __ |a LC (2016) Subject Usage: 5 
+688 __ |a WC (2016) Subject Usage: 11 
+700 10 |a Southall, Ivan |0 (DLC)n 80038432 
+700 04 |a Ivan Southall |0 (uri)http://en.wikipedia.org/wiki/Ivan_Southall |9 
+          Feb2015 
+700 10 |a Southall, Ivan |0 (viaf)62752550 |0 
+          (uri)https://viaf.org/viaf/62752550 |9 Feb2015 
+

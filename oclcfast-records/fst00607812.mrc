@@ -1,0 +1,23 @@
+01065cz   2200229n  4500
+001 fst00607812
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00607812 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a France. |b Ministáere de l'instruction publique 
+410 1_ |a France. |b Instruction publique, Ministáere de l' 
+410 1_ |a France. |b Ministáere de l'instruction publique, des beaux-arts et 
+          des cultes 
+410 1_ |a France. |b Ministáere de l'instruction publique, des cultes et des 
+          beaux-arts 
+410 1_ |a France. |b Ministáere de l'instruction publique et des beaux-arts 
+410 1_ |a France. |b Ministáere de l'instruction publique et des cultes 
+510 1_ |a France. |b Ministáere de l'âeducation nationale |0 
+          (OCoLC)fst00538945 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 14 
+710 10 |a France. |b Ministáere de l'instruction publique |0 (DLC)n 85183031 
+710 10 |a France. |b Ministáere de l'instruction publique |0 (viaf)125416427 
+       |0 (uri)https://viaf.org/viaf/125416427 |9 Feb2015 
+

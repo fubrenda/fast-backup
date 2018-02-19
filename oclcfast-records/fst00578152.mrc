@@ -1,0 +1,16 @@
+00685cz   2200181n  4500
+001 fst00578152
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00578152 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Towarzystwo Numizmatyczne w Krakowie 
+410 2_ |a Polskie Towarzystwo Numizmatyczne w Krakowie 
+510 2_ |a Polskie Towarzystwo Numizmatyczne |0 (OCoLC)fst01456259 |w b 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Towarzystwo Numizmatyczne w Krakowie |0 (DLC)n 83006366 
+710 20 |a Towarzystwo Numizmatyczne w Krakowie |0 (viaf)133724660 |0 
+          (uri)https://viaf.org/viaf/133724660 |9 Feb2015 
+

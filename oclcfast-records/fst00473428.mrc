@@ -1,0 +1,18 @@
+00726cz   2200193n  4500
+001 fst00473428
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00473428 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a De Vere, Cecil, |d 1845?-1875 
+400 1_ |a Vere, Cecil de, |d 1845?-1875 
+400 1_ |a Brown, Cecil Valentine, |d 1845?-1875 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a De Vere, Cecil, |d 1845?-1875 |0 (DLC)nb2002011101 
+700 04 |a Cecil Valentine De Vere |0 
+          (uri)http://en.wikipedia.org/wiki/Cecil_Valentine_De_Vere |9 Feb2015 
+700 10 |a De Vere, Cecil, |d 1845?-1875 |0 (viaf)1974236 |0 
+          (uri)https://viaf.org/viaf/1974236 |9 Feb2015 
+

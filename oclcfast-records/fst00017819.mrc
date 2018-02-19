@@ -1,0 +1,14 @@
+00503xz   2200157n  4500
+001 fst00017819
+003 OCoLC
+005 20100126163523.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00017819 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Smyth, Henry De Wolf, |d 1898- 
+400 1_ |a Smyth, H. D. |q (Henry De Wolf), |d 1898- 
+400 1_ |a Smit, G. D., |d 1898- 
+700 17 |a Smyth, Henry De Wolf, |d 1898-1986 |w na |0 (OCoLC)fst01733104 |2 
+          fast 
+700 10 |a Smyth, Henry De Wolf, |d 1898- |0 (DLC)n 50053261 
+

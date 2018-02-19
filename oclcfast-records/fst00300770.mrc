@@ -1,0 +1,14 @@
+00494cz   2200157n  4500
+001 fst00300770
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00300770 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ramogida, Chantal 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Ramogida, Chantal |0 (DLC)n 92027054 
+700 10 |a Ramogida, Chantal |0 (viaf)19730426 |0 
+          (uri)https://viaf.org/viaf/19730426 |9 Feb2015 
+

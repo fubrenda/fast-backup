@@ -1,0 +1,12 @@
+00418xz   2200133n  4500
+001 fst00417226
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00417226 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Lewin, Stephen, |d fl. 1839-1868 
+700 17 |a Lewin, Stephen, |d active 1839-1868 |w na |0 (OCoLC)fst01830701 |2 
+          fast 
+700 10 |a Lewin, Stephen, |d fl. 1839-1868 |0 (DLC)nr 98016586 
+

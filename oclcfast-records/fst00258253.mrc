@@ -1,0 +1,12 @@
+00367oz   2200145n  4500
+001 fst00258253
+003 OCoLC
+005 20141217093932.0
+008 040924nn anznnbabn          || aba     d
+016 7_ |a fst00258253 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Yu, Xin 
+400 1_ |a Yèu, Hsin 
+667 __ |a Undifferentiated name - do not use 
+700 10 |a Yu, Xin |0 (DLC)n 88243314 
+

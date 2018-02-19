@@ -1,0 +1,16 @@
+00713cz   2200181n  4500
+001 fst00613551
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00613551 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Sâeminaire St-Joseph (Trois-Riviáeres, Quâebec) 
+410 2_ |a Sâeminaire Saint-Joseph de Trois-Riviáeres (Quâebec) 
+410 2_ |a Sâeminaire des Trois-Riviáeres (Quâebec) 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 20 
+710 20 |a Sâeminaire St-Joseph (Trois-Riviáeres, Quâebec) |0 (DLC)n 86067340 
+710 20 |a Sâeminaire St-Joseph (Trois-Riviáeres, Quâebec) |0 (viaf)259266535 
+       |0 (uri)https://viaf.org/viaf/259266535 |9 Feb2015 
+

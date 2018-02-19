@@ -1,0 +1,20 @@
+00672cz   2200229n  4500
+001 fst00490180
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00490180 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 19230506 
+100 1_ |a ÁEtush, Vladimir 
+374 __ |a Actors |2 lcsh 
+375 __ |a male 
+377 __ |a rus 
+400 1_ |a Etoush, Vladimir 
+400 1_ |a ÁEtush, V. A. |q (Vladimir Abramovich) 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a ÁEtush, Vladimir |0 (DLC)no2003016873 
+700 10 |a ÁEtush, Vladimir |0 (viaf)15834887 |0 
+          (uri)https://viaf.org/viaf/15834887 |9 Feb2015 
+

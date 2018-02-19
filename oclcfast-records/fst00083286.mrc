@@ -1,0 +1,15 @@
+00511cz   2200169n  4500
+001 fst00083286
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00083286 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PQ7820.S3 
+100 1_ |a Salmâon, Raâul 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Salmâon, Raâul |0 (DLC)n 81140161 
+700 10 |a Salmâon, Raâul |0 (viaf)59129910 |0 
+          (uri)https://viaf.org/viaf/59129910 |9 Feb2015 
+

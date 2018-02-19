@@ -1,0 +1,15 @@
+00621cz   2200169n  4500
+001 fst00353705
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00353705 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Wheeler, W. H. |q (William Henry), |d 1832-1915 
+400 1_ |a Wheeler, William Henry, |d 1832-1915 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Wheeler, W. H. |q (William Henry), |d 1832-1915 |0 (DLC)no 95015720 
+700 10 |a Wheeler, W. H. |q (William Henry), |d 1832-1915 |0 (viaf)9427178 |0 
+          (uri)https://viaf.org/viaf/9427178 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00761cz   2200169n  4500
+001 fst00665351
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00665351 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a International District Heating Association. |b Upper Midwest 
+          Section 
+510 2_ |a International District Heating and Cooling Association. |b Upper 
+          Midwest Section |0 (OCoLC)fst00665352 |w b 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+710 20 |a International District Heating Association. |b Upper Midwest 
+          Section |0 (DLC)no 90027267 
+710 20 |a International District Heating Association. |b Upper Midwest 
+          Section |0 (viaf)129287108 |0 (uri)https://viaf.org/viaf/129287108 
+       |9 Feb2015 
+

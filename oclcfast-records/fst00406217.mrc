@@ -1,0 +1,15 @@
+00507cz   2200169n  4500
+001 fst00406217
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00406217 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PH665.R4 
+100 1_ |a Reinvald, Ado 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Reinvald, Ado |0 (DLC)n 97112021 
+700 10 |a Reinvald, Ado |0 (viaf)31287688 |0 
+          (uri)https://viaf.org/viaf/31287688 |9 Feb2015 
+

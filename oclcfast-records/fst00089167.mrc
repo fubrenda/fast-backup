@@ -1,0 +1,16 @@
+00575cz   2200181n  4500
+001 fst00089167
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00089167 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Shulgi, |c King of Ur 
+400 0_ |a ÈSulgi, |c King of Ur 
+400 0_ |a Schulgir, |c King of Ur 
+688 __ |a LC (2016) Subject Usage: 4 
+688 __ |a WC (2016) Subject Usage: 13 
+700 00 |a Shulgi, |c King of Ur |0 (DLC)n 82039358 
+700 00 |a Shulgi, |c King of Ur |0 (viaf)53027825 |0 
+          (uri)https://viaf.org/viaf/53027825 |9 Feb2015 
+

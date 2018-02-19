@@ -1,0 +1,15 @@
+00580xz   2200181n  4500
+001 fst00209228
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00209228 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Kietlicz, Henryk, |d d. 1219 
+400 0_ |a Henryk, |c Archbishop of Gniezno, |d d. 1219 
+400 1_ |a Bren, Henryk, |d d. 1219 
+400 0_ |a Henryk, |c z Brenu, |d d. 1219 
+400 1_ |a Brenu, Henryk z, |d d. 1219 
+700 17 |a Kietlicz, Henryk, |d -1219 |w na |0 (OCoLC)fst01828681 |2 fast 
+700 10 |a Kietlicz, Henryk, |d d. 1219 |0 (DLC)n 85378606 
+

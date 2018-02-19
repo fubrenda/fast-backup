@@ -1,0 +1,16 @@
+00552cz   2200181n  4500
+001 fst00056541
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00056541 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PQ9281.O779 
+100 1_ |a Sousa, Helder de 
+400 1_ |a De Sousa, Helder 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Sousa, Helder de |0 (DLC)n 80076731 
+700 10 |a Sousa, Helder de |0 (viaf)33298337 |0 
+          (uri)https://viaf.org/viaf/33298337 |9 Feb2015 
+

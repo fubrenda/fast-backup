@@ -1,0 +1,11 @@
+00385xz   2200133n  4500
+001 fst00459494
+003 OCoLC
+005 20131219122842.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00459494 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Menconi, David Lawrence 
+700 17 |a Menconi, David |w na |0 (OCoLC)fst01898624 |2 fast 
+700 10 |a Menconi, David Lawrence |0 (DLC)no2001014635 
+

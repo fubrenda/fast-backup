@@ -1,0 +1,15 @@
+00560cz   2200169n  4500
+001 fst00442323
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00442323 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1889 |g 1966 
+100 1_ |a Brown, Constantine, |d 1889-1966 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Brown, Constantine, |d 1889-1966 |0 (DLC)n 99830383 
+700 10 |a Brown, Constantine, |d 1889-1966 |0 (viaf)75653003 |0 
+          (uri)https://viaf.org/viaf/75653003 |9 Feb2015 
+

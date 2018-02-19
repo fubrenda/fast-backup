@@ -1,0 +1,15 @@
+00612cz   2200169n  4500
+001 fst00599052
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00599052 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Strossmayerova galerija starih majstora 
+410 2_ |a Strossmayer Gallery of Old Masters 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 20 
+710 20 |a Strossmayerova galerija starih majstora |0 (DLC)n 85009458 
+710 20 |a Strossmayerova galerija starih majstora |0 (viaf)139387116 |0 
+          (uri)https://viaf.org/viaf/139387116 |9 Feb2015 
+

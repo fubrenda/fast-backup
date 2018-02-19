@@ -1,0 +1,21 @@
+00858xz   2200241n  4500
+001 fst00491948
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00491948 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Fabri, Johannes, |d fl. 1474-1491 
+400 1_ |a Fabri, Jean, |d fl. 1474-1491 
+400 1_ |a Lefebvre, Jean, |d fl. 1474-1491 
+400 1_ |a Favre, Jean, |d fl. 1474-1491 
+400 1_ |a Fabri, Giovanni, |d fl. 1474-1491 
+400 1_ |a Langres, Jean de, |d fl. 1474-1491 
+400 1_ |a De Langres, Jean, |d fl. 1474-1491 
+400 1_ |a Lingon, Jean de, |d fl. 1474-1491 
+400 1_ |a De Lingon, Jean, |d fl. 1474-1491 
+400 1_ |a Lingonensis, Johannes Fabri, |d fl. 1474-1491 
+700 17 |a Fabri, Johannes, |d active 1474-1491 |w na |0 (OCoLC)fst01817871 |2 
+          fast 
+700 10 |a Fabri, Johannes, |d fl. 1474-1491 |0 (DLC)no2003030333 
+

@@ -1,0 +1,15 @@
+00502cz   2200169n  4500
+001 fst00072249
+003 OCoLC
+005 20130405150554.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00072249 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Wu, Youheng 
+400 1_ |a Wu, Yu-heng 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Wu, Youheng |0 (DLC)n 81050430 
+700 10 |a Wu, Youheng |0 (viaf)25924619 |0 
+          (uri)https://viaf.org/viaf/25924619 |9 Feb2015 
+

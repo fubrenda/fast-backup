@@ -1,0 +1,16 @@
+00586cz   2200169n  4500
+001 fst00121901
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00121901 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Schawinski, Roger 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Schawinski, Roger |0 (DLC)n 83222808 
+700 04 |a Roger Schawinski |0 
+          (uri)http://en.wikipedia.org/wiki/Roger_Schawinski |9 Feb2015 
+700 10 |a Schawinski, Roger |0 (viaf)22999290 |0 
+          (uri)https://viaf.org/viaf/22999290 |9 Feb2015 
+

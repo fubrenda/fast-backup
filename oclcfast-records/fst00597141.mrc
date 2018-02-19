@@ -1,0 +1,17 @@
+00712cz   2200181n  4500
+001 fst00597141
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00597141 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Associaðcäao dos Empregados no Comâercio do Rio de Janeiro 
+410 2_ |a AEC 
+410 2_ |a Associaðcäao dos Empregados no Commercio do Rio de Janeiro 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 8 
+710 20 |a Associaðcäao dos Empregados no Comâercio do Rio de Janeiro |0 
+          (DLC)n 84163595 
+710 20 |a Associaðcäao dos Empregados no Comâercio do Rio de Janeiro |0 
+          (viaf)168638433 |0 (uri)https://viaf.org/viaf/168638433 |9 Feb2015 
+

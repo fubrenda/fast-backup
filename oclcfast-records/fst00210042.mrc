@@ -1,0 +1,19 @@
+00739cz   2200193n  4500
+001 fst00210042
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00210042 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Siles Zuazo, Hernâan, |d 1914- 
+400 1_ |a Zuazo, Hernâan Siles, |d 1914- 
+400 1_ |a Siles Zuazo, Hernâan, |c Pres. Bolivia, |d 1914- 
+688 __ |a LC (2016) Subject Usage: 4 
+688 __ |a WC (2016) Subject Usage: 20 
+700 10 |a Siles Zuazo, Hernâan, |d 1914- |0 (DLC)n 87141979 
+700 04 |a Hernâan Siles Zuazo |0 
+          (uri)http://en.wikipedia.org/wiki/Herna%CC%81n_Siles_Zuazo |9 
+          Feb2015 
+700 10 |a Siles Zuazo, Hernâan, |d 1914- |0 (viaf)77113472 |0 
+          (uri)https://viaf.org/viaf/77113472 |9 Feb2015 
+

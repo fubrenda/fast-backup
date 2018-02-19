@@ -1,0 +1,16 @@
+00563cz   2200169n  4500
+001 fst00270450
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00270450 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Taylor, Cora 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Taylor, Cora |0 (DLC)n 90654405 
+700 04 |a Cora Taylor |0 (uri)http://en.wikipedia.org/wiki/Cora_Taylor |9 
+          Feb2015 
+700 10 |a Taylor, Cora |0 (viaf)36076381 |0 
+          (uri)https://viaf.org/viaf/36076381 |9 Feb2015 
+

@@ -1,0 +1,21 @@
+00910cz   2200181n  4500
+001 fst00611369
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00611369 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Institute for Materials Science and Engineering (U.S.). |b 
+          Metallurgy Division 
+510 2_ |a Center for Materials Science (National Measurement Laboratory). |b 
+          Metallurgy Division |0 (OCoLC)fst00563901 |w a 
+510 2_ |a Materials Science and Engineering Laboratory (U.S.). |b Metallurgy 
+          Division |0 (OCoLC)fst00690733 |w b 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 5 
+710 20 |a Institute for Materials Science and Engineering (U.S.). |b 
+          Metallurgy Division |0 (DLC)n 85343409 
+710 20 |a Institute for Materials Science and Engineering (U.S.). |b 
+          Metallurgy Division |0 (viaf)157181598 |0 
+          (uri)https://viaf.org/viaf/157181598 |9 Feb2015 
+

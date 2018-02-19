@@ -1,0 +1,16 @@
+00567cz   2200181n  4500
+001 fst00295161
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00295161 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Kovachevski, Ivan 
+400 1_ |a Kovachevsky, Ivan 
+400 1_ |a Kovachevski, Ivan Khr. 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Kovachevski, Ivan |0 (DLC)n 91117303 
+700 10 |a Kovachevski, Ivan |0 (viaf)65655857 |0 
+          (uri)https://viaf.org/viaf/65655857 |9 Feb2015 
+

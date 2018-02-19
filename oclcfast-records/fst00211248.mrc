@@ -1,0 +1,17 @@
+00617cz   2200193n  4500
+001 fst00211248
+003 OCoLC
+005 20130405150554.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00211248 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Zhu, Naizheng, |d 1935- 
+400 1_ |a Chu, Nai-cheng, |d 1935- 
+400 1_ |a Zhu, Nai Zheng, |d 1935- 
+400 0_ |a Zhunaizheng, |d 1935- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 10 
+700 10 |a Zhu, Naizheng, |d 1935- |0 (DLC)n 85295395 
+700 10 |a Zhu, Naizheng, |d 1935- |0 (viaf)8193485 |0 
+          (uri)https://viaf.org/viaf/8193485 |9 Feb2015 
+

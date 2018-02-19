@@ -1,0 +1,17 @@
+00701cz   2200193n  4500
+001 fst00316527
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00316527 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Olavo, Carlos, |d 1881-1958 
+400 1_ |a Correia de Azevedo, Carlos Olavo, |d 1881-1958 
+400 1_ |a Azevedo, Carlos Olavo Correia de, |d 1881-1958 
+400 1_ |a De Azevedo, Carlos Olavo Correia, |d 1881-1958 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Olavo, Carlos, |d 1881-1958 |0 (DLC)no 93001733 
+700 10 |a Olavo, Carlos, |d 1881-1958 |0 (viaf)61113532 |0 
+          (uri)https://viaf.org/viaf/61113532 |9 Feb2015 
+

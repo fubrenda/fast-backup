@@ -1,0 +1,18 @@
+00709cz   2200169n  4500
+001 fst00512582
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00512582 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a First Church of Christ, Scientist (Boston, Mass.). |b Board of 
+          Directors 
+410 2_ |a Christian Science Board of Directors 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 19 
+710 20 |a First Church of Christ, Scientist (Boston, Mass.). |b Board of 
+          Directors |0 (DLC)n 50047070 
+710 20 |a First Church of Christ, Scientist (Boston, Mass.). |b Board of 
+          Directors |0 (viaf)153573912 |0 (uri)https://viaf.org/viaf/153573912 
+       |9 Feb2015 
+

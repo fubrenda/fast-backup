@@ -1,0 +1,18 @@
+00751cz   2200193n  4500
+001 fst00396483
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00396483 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Morris, Esther Hobart, |d 1814-1902 
+400 1_ |a McQuigg, Esther Hobart, |d 1814-1902 
+400 1_ |a Slack, Esther Hobart McQuigg, |d 1814-1902 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 31 
+700 10 |a Morris, Esther Hobart, |d 1814-1902 |0 (DLC)n 97085431 
+700 04 |a Esther Hobart Morris |0 
+          (uri)http://en.wikipedia.org/wiki/Esther_Hobart_Morris |9 Feb2015 
+700 10 |a Morris, Esther Hobart, |d 1814-1902 |0 (viaf)1758183 |0 
+          (uri)https://viaf.org/viaf/1758183 |9 Feb2015 
+

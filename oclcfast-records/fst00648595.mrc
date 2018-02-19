@@ -1,0 +1,12 @@
+00473xz   2200133n  4500
+001 fst00648595
+003 OCoLC
+005 20140129160657.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00648595 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Great Britain. |b Army. |b Ten Commando Regiment 
+710 10 |a Great Britain. |b Army. |b Ten Commando Regiment |0 (DLC)n 88286670 
+710 17 |a Great Britain. |b Combined Operations Command. |b Commando, 10th |w 
+          na |0 (OCoLC)fst01659015 |2 fast 
+

@@ -1,0 +1,14 @@
+00485cz   2200157n  4500
+001 fst00170976
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00170976 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Pikulik, Jerzy 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Pikulik, Jerzy |0 (DLC)n 85330520 
+700 10 |a Pikulik, Jerzy |0 (viaf)67924556 |0 
+          (uri)https://viaf.org/viaf/67924556 |9 Feb2015 
+

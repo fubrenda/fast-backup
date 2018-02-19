@@ -1,0 +1,16 @@
+00675cz   2200169n  4500
+001 fst00307036
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00307036 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Hamilton, Ian R. |q (Ian Robertson), |d 1925- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 19 
+700 10 |a Hamilton, Ian R. |q (Ian Robertson), |d 1925- |0 (DLC)nr 92025045 
+700 04 |a Ian Hamilton (advocate) |0 
+          (uri)http://en.wikipedia.org/wiki/Ian_Hamilton_(advocate) |9 Feb2015 
+700 10 |a Hamilton, Ian R. |q (Ian Robertson), |d 1925- |0 (viaf)56816980 |0 
+          (uri)https://viaf.org/viaf/56816980 |9 Feb2015 
+

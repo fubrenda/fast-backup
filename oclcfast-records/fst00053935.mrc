@@ -1,0 +1,12 @@
+00428xz   2200145n  4500
+001 fst00053935
+003 OCoLC
+005 20121009143440.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00053935 |z fst00498653 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a David, Hal, |d 1921- 
+400 1_ |a David, Hal |w nne 
+700 17 |a David, Hal, |d 1921-2012 |w na |0 (OCoLC)fst01797919 |2 fast 
+700 10 |a David, Hal, |d 1921- |0 (DLC)n 80050146 
+

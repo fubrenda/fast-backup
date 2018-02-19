@@ -1,0 +1,15 @@
+00545cz   2200169n  4500
+001 fst00232675
+003 OCoLC
+005 20130405150554.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00232675 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Chen, Jiguang, |d 1939- 
+400 1_ |a Ch°en, Chi-kuang, |d 1939- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Chen, Jiguang, |d 1939- |0 (DLC)n 88040734 
+700 10 |a Chen, Jiguang, |d 1939- |0 (viaf)63087915 |0 
+          (uri)https://viaf.org/viaf/63087915 |9 Feb2015 
+

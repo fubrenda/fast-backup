@@ -1,0 +1,15 @@
+00617cz   2200169n  4500
+001 fst00233953
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00233953 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Dalzell, James McCormick, |d 1838-1924 
+400 1_ |a Dalzell, |c Private |q (James McCormick), |d 1838-1924 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 15 
+700 10 |a Dalzell, James McCormick, |d 1838-1924 |0 (DLC)n 88651577 
+700 10 |a Dalzell, James McCormick, |d 1838-1924 |0 (viaf)21259795 |0 
+          (uri)https://viaf.org/viaf/21259795 |9 Feb2015 
+

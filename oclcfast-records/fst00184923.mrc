@@ -1,0 +1,16 @@
+00577cz   2200181n  4500
+001 fst00184923
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00184923 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Dodge, Louise 
+400 0_ |a Author of A question of identity 
+400 1_ |a Question of identity, Author of 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Dodge, Louise |0 (DLC)n 86859025 
+700 10 |a Dodge, Louise |0 (viaf)1512611 |0 
+          (uri)https://viaf.org/viaf/1512611 |9 Feb2015 
+

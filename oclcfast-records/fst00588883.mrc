@@ -1,0 +1,15 @@
+00594cz   2200169n  4500
+001 fst00588883
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00588883 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Evangelische Michaelsbruderschaft 
+410 2_ |a Evangelische Michaels-Bruderschaft 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 12 
+710 20 |a Evangelische Michaelsbruderschaft |0 (DLC)n 82233871 
+710 20 |a Evangelische Michaelsbruderschaft |0 (viaf)310502830 |0 
+          (uri)https://viaf.org/viaf/310502830 |9 Feb2015 
+

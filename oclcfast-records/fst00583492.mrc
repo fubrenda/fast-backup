@@ -1,0 +1,14 @@
+00534xz   2200133n  4500
+001 fst00583492
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00583492 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Industrial Commission of Wisconsin. |b Unemployment Compensation 
+          Dept. 
+710 27 |a Industrial Commission of Wisconsin. |b Unemployment Compensation 
+          Department |w na |0 (OCoLC)fst01826080 |2 fast 
+710 20 |a Industrial Commission of Wisconsin. |b Unemployment Compensation 
+          Dept. |0 (DLC)n 83165486 
+

@@ -1,0 +1,18 @@
+00650cz   2200193n  4500
+001 fst00295639
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00295639 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Karnilova, Maria 
+400 1_ |a Dovgolenko, Maria 
+400 1_ |a Karniloff, Maria 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Karnilova, Maria |0 (DLC)n 91120660 
+700 04 |a Maria Karnilova |0 
+          (uri)http://en.wikipedia.org/wiki/Maria_Karnilova |9 Feb2015 
+700 10 |a Karnilova, Maria |0 (viaf)41026276 |0 
+          (uri)https://viaf.org/viaf/41026276 |9 Feb2015 
+

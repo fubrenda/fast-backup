@@ -1,0 +1,16 @@
+00706cz   2200181n  4500
+001 fst00557573
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00557573 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Sofiæiski obshtinski naroden sæuvet 
+410 1_ |a Sofia (Bulgaria : Obshtina). |b Sofiæiski obshtinski naroden sæuvet 
+410 1_ |a Sofia (Bulgaria : Obshtina). |b Stolichni obshtinski sæuvet 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Sofiæiski obshtinski naroden sæuvet |0 (DLC)n 81063990 
+710 20 |a Sofiæiski obshtinski naroden sæuvet |0 (viaf)157115787 |0 
+          (uri)https://viaf.org/viaf/157115787 |9 Feb2015 
+

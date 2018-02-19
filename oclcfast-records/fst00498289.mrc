@@ -1,0 +1,12 @@
+00440xz   2200145n  4500
+001 fst00498289
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00498289 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Maris, Ann Waln, |d b. 1714 
+400 1_ |a Waln Maris, Ann, |d b. 1714 
+700 17 |a Maris, Ann Waln, |d 1714- |w na |0 (OCoLC)fst01832958 |2 fast 
+700 10 |a Maris, Ann Waln, |d b. 1714 |0 (DLC)no2003083918 
+

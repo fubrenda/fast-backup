@@ -1,0 +1,15 @@
+00578cz   2200169n  4500
+001 fst00103308
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00103308 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a òHakamåi, òHåafiòz ibn Aòhmad 
+400 1_ |a òHikamåi, òHåafiòz ibn Aòhmad 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a òHakamåi, òHåafiòz ibn Aòhmad |0 (DLC)n 82164372 
+700 10 |a òHakamåi, òHåafiòz ibn Aòhmad |0 (viaf)279706383 |0 
+          (uri)https://viaf.org/viaf/279706383 |9 Feb2015 
+

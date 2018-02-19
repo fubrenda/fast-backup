@@ -1,0 +1,12 @@
+00443xz   2200145n  4500
+001 fst00303962
+003 OCoLC
+005 20090330152002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00303962 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ungerfeld, Moshe, |d 1898- 
+400 1_ |a Ungerfeld, Mosheh, |d 1898- 
+700 10 |a Ungerfeld, Moshe, |d 1898- |0 (DLC)no 92011840 
+700 17 |a Ungerfeld, Moshe, |d 1898-1983 |w na |0 (OCoLC)fst01720866 |2 fast 
+

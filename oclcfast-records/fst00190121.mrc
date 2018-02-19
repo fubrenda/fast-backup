@@ -1,0 +1,18 @@
+00707cz   2200193n  4500
+001 fst00190121
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00190121 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Siret, Nicolas, |d 1663-1754 
+400 1_ |a Siret, |c Monsieur |q (Nicolas), |d 1663-1754 
+400 1_ |a Siret, Nicholas, |d 1663-1754 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Siret, Nicolas, |d 1663-1754 |0 (DLC)n 85162145 
+700 04 |a Nicolas Siret |0 (uri)http://en.wikipedia.org/wiki/Nicolas_Siret |9 
+          Feb2015 
+700 10 |a Siret, Nicolas, |d 1663-1754 |0 (viaf)54333821 |0 
+          (uri)https://viaf.org/viaf/54333821 |9 Feb2015 
+

@@ -1,0 +1,16 @@
+00624xz   2200193n  4500
+001 fst00119130
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00119130 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Gurtner, Benedikt, |d d. 1773 
+400 1_ |a Gèartner, Benedikt, |d d. 1773 
+400 1_ |a Gèortner, Benedikt, |d d. 1773 
+400 1_ |a Gurtner, Benedict, |d d. 1773 
+400 1_ |a Gurtner, Benedik, |d d. 1773 
+400 1_ |a Gurtner, Benedicht, |d d. 1773 
+700 17 |a Gurtner, Benedikt, |d -1773 |w na |0 (OCoLC)fst01822199 |2 fast 
+700 10 |a Gurtner, Benedikt, |d d. 1773 |0 (DLC)n 83189865 
+

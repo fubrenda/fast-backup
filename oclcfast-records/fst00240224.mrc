@@ -1,0 +1,19 @@
+00786cz   2200217n  4500
+001 fst00240224
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00240224 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PK1967.9.R275 
+100 0_ |a Råamanåatha Jyotishåi, |d 1874-1953 
+400 1_ |a Jyotishåi, Råamanåatha, |d 1874-1953 
+400 0_ |a Råamanåatha âSukla Jyotishåi, |d 1874-1953 
+400 1_ |a Jyotishåi, Råamanåatha âSukla, |d 1874-1953 
+400 1_ |a âSukla, Råamanåatha, |d 1874-1953 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 4 
+700 00 |a Råamanåatha Jyotishåi, |d 1874-1953 |0 (DLC)n 88000206 
+700 00 |a Råamanåatha Jyotishåi, |d 1874-1953 |0 (viaf)58152512 |0 
+          (uri)https://viaf.org/viaf/58152512 |9 Feb2015 
+

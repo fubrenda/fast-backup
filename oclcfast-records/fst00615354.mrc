@@ -1,0 +1,17 @@
+00702cz   2200169n  4500
+001 fst00615354
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00615354 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a New York Public Library. |b Art and Architecture Division 
+410 2_ |a New York Public Library. |b Research Libraries. |b Art and 
+          Architecture Division 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 13 
+710 20 |a New York Public Library. |b Art and Architecture Division |0 (DLC)n 
+          85001028 
+710 20 |a New York Public Library. |b Art and Architecture Division |0 
+          (viaf)261140405 |0 (uri)https://viaf.org/viaf/261140405 |9 Feb2015 
+

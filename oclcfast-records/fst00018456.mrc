@@ -1,0 +1,16 @@
+00666cz   2200181n  4500
+001 fst00018456
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00018456 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Gage, William Leonard, |d 1832-1889 
+400 1_ |a Gage, W. L. |q (William Leonard), |d 1832-1889 
+400 1_ |a Gage, Wm. Leonhard |q (William Leonhard), |d 1832-1889 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Gage, William Leonard, |d 1832-1889 |0 (DLC)n 50058406 
+700 10 |a Gage, William Leonard, |d 1832-1889 |0 (viaf)5302612 |0 
+          (uri)https://viaf.org/viaf/5302612 |9 Feb2015 
+

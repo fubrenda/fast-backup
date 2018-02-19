@@ -1,0 +1,19 @@
+00855cz   2200205n  4500
+001 fst00539501
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00539501 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a National Heart and Lung Institute 
+410 2_ |a National Institutes of Health (U.S.). |b National Heart and Lung 
+          Institute 
+410 1_ |a United States. |b National Heart and Lung Institute 
+510 2_ |a National Heart Institute (U.S.) |0 (OCoLC)fst00539499 
+510 2_ |a National Heart, Lung, and Blood Institute |0 (OCoLC)fst00539500 
+688 __ |a LC (2016) Subject Usage: 3 (4) 
+688 __ |a WC (2016) Subject Usage: 15 (26) 
+710 20 |a National Heart and Lung Institute |0 (DLC)n 79143136 
+710 20 |a National Heart and Lung Institute |0 (viaf)146573882 |0 
+          (uri)https://viaf.org/viaf/146573882 |9 Feb2015 
+

@@ -1,0 +1,14 @@
+00545xz   2200157n  4500
+001 fst00361296
+003 OCoLC
+005 20090330152002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00361296 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Perdomo Escobar, Josâe Ignacio, |d 1917- 
+400 1_ |a Escobar, Josâe Ignacio Perdomo, |d 1917- 
+400 1_ |a Perdomo, Josâe Ignacio, |d 1917- 
+700 10 |a Perdomo Escobar, Josâe Ignacio, |d 1917- |0 (DLC)nr 95018910 
+700 17 |a Perdomo Escobar, Josâe Ignacio, |d 1917-1980 |w na |0 
+          (OCoLC)fst01723344 |2 fast 
+

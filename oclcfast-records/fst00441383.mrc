@@ -1,0 +1,19 @@
+00687cz   2200205n  4500
+001 fst00441383
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00441383 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Sargsyan, F. T. 
+400 1_ |a Sargsian, F. T. 
+400 1_ |a Sargsyan, Fadey Tachaki 
+400 1_ |a Sarkisëiìan, F. T. 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Sargsyan, F. T. |0 (DLC)n 99266403 
+700 04 |a Fadey Sargsyan |0 (uri)http://en.wikipedia.org/wiki/Fadey_Sargsyan 
+       |9 Feb2015 
+700 10 |a Sargsyan, F. T. |0 (viaf)256803193 |0 
+          (uri)https://viaf.org/viaf/256803193 |9 Feb2015 
+

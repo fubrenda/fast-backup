@@ -1,0 +1,11 @@
+00393xz   2200133n  4500
+001 fst00176268
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00176268 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Moody, William, |d d. 1673 
+700 17 |a Moody, William, |d -1673 |w na |0 (OCoLC)fst01835756 |2 fast 
+700 10 |a Moody, William, |d d. 1673 |0 (DLC)n 85374434 
+

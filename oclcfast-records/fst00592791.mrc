@@ -1,0 +1,16 @@
+00649cz   2200181n  4500
+001 fst00592791
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00592791 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Oregon Liquor Control Commission 
+410 1_ |a Oregon. |b Liquor Control Commission 
+410 1_ |a Oregon. |b Oregon Liquor Control Commission 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 50 
+710 20 |a Oregon Liquor Control Commission |0 (DLC)n 84072882 
+710 20 |a Oregon Liquor Control Commission |0 (viaf)127890429 |0 
+          (uri)https://viaf.org/viaf/127890429 |9 Feb2015 
+

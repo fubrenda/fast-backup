@@ -1,0 +1,18 @@
+00691cz   2200205n  4500
+001 fst00026800
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00026800 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Agripino, Joäao 
+400 1_ |a Vasconcelos Filho, Joäao Agripino Maia de 
+400 1_ |a De Vasconcelos Filho, Joäao Agripino Maia 
+400 1_ |a Maia de Vasconcelos Filho, Joäao 
+400 1_ |a Agripino Filho, Joäao 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 8 
+700 10 |a Agripino, Joäao |0 (DLC)n 78069226 
+700 10 |a Agripino, Joäao |0 (viaf)43099183 |0 
+          (uri)https://viaf.org/viaf/43099183 |9 Feb2015 
+

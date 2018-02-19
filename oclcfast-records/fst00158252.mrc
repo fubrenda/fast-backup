@@ -1,0 +1,21 @@
+00884cz   2200205n  4500
+001 fst00158252
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00158252 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Dearborn, H. A. S. |q (Henry Alexander Scammell), |d 1783-1851 
+400 1_ |a Dearborn, Henry Alexander Scammell, |d 1783-1851 
+400 0_ |a Nearchus, |d 1783-1851 
+400 0_ |a Massasoit, |d 1783-1851 
+688 __ |a LC (2016) Subject Usage: 7 
+688 __ |a WC (2016) Subject Usage: 46 
+700 10 |a Dearborn, H. A. S. |q (Henry Alexander Scammell), |d 1783-1851 |0 
+          (DLC)n 85813200 
+700 04 |a Henry Alexander Scammell Dearborn |0 
+          (uri)http://en.wikipedia.org/wiki/Henry_Alexander_Scammell_Dearborn 
+       |9 Feb2015 
+700 10 |a Dearborn, H. A. S. |q (Henry Alexander Scammell), |d 1783-1851 |0 
+          (viaf)70398057 |0 (uri)https://viaf.org/viaf/70398057 |9 Feb2015 
+

@@ -1,0 +1,17 @@
+00611cz   2200193n  4500
+001 fst00469580
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00469580 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Unsetsu, |d 1706-1773 
+400 0_ |a Teia, |d 1706-1773 
+400 0_ |a Jåorenja Ren®yo, |d 1706-1773 
+400 0_ |a Gugen, |d 1706-1773 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 00 |a Unsetsu, |d 1706-1773 |0 (DLC)nr2001041336 
+700 00 |a Unsetsu, |d 1706-1773 |0 (viaf)66399897 |0 
+          (uri)https://viaf.org/viaf/66399897 |9 Feb2015 
+

@@ -1,0 +1,31 @@
+01488cz   2200289n  4500
+001 fst00584589
+003 OCoLC
+005 20170414140750.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00584589 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Pacific Biological Station (1972- ) 
+410 1_ |a Canada. |b Department of Fisheries and Oceans. |b Biological 
+          Sciences Branch. |b Pacific Biological Station 
+410 1_ |a Canada. |b Department of Fisheries and Oceans. |b Fisheries 
+          Research Branch. |b Pacific Biological Station 
+410 1_ |a Canada. |b Department of Fisheries and Oceans. |b Pacific 
+          Biological Station 
+410 1_ |a Canada. |b Department of Fisheries and Oceans. |b Resource Services 
+          Branch. |b Pacific Biological Station 
+410 1_ |a Canada. |b Fisheries and Marine Service. |b Pacific Biological 
+          Station 
+410 1_ |a Canada. |b Fisheries Research Board. |b Pacific Biological Station 
+410 1_ |a Canada. |b Pacific Biological Station (1972- ) 
+410 2_ |a Fisheries Research Board of Canada. |b Pacific Biological Station 
+410 2_ |a Pacific Biological Station |w nne 
+410 2_ |a Station de biologie du Pacifique 
+510 2_ |a Fisheries Research Board of Canada. |b Biological Station (Nanaimo, 
+          B.C.) |0 (OCoLC)fst00684142 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 12 
+710 20 |a Pacific Biological Station (1972- ) |0 (DLC)n 83188609 
+710 20 |a Pacific Biological Station |0 (viaf)144163701 |0 
+          (uri)https://viaf.org/viaf/144163701 |9 Feb2015 
+

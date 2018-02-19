@@ -1,0 +1,16 @@
+00603cz   2200169n  4500
+001 fst00099965
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00099965 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Leider, Frida, |d 1888-1975 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 12 
+700 10 |a Leider, Frida, |d 1888-1975 |0 (DLC)n 82133575 
+700 04 |a Frida Leider |0 (uri)http://en.wikipedia.org/wiki/Frida_Leider |9 
+          Feb2015 
+700 10 |a Leider, Frida, |d 1888-1975 |0 (viaf)5118110 |0 
+          (uri)https://viaf.org/viaf/5118110 |9 Feb2015 
+

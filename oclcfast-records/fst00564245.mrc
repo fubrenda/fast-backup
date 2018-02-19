@@ -1,0 +1,12 @@
+00434xz   2200133n  4500
+001 fst00564245
+003 OCoLC
+005 20071107164328.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00564245 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Guinea. |b President (1958- : Tourâe) 
+710 20 |a Guinea. |b President (1958- : Tourâe) |0 (DLC)n 82005103 
+710 17 |a Guinea. |b President (1958-1984 : Tourâe) |w na |0 
+          (OCoLC)fst01429187 |2 fast 
+

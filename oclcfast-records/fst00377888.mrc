@@ -1,0 +1,15 @@
+00597cz   2200169n  4500
+001 fst00377888
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00377888 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Burrows, Silas Enoch, |d 1794-1870 
+400 1_ |a Burrows, S. E. |q (Silas Enoch), |d 1794-1870 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Burrows, Silas Enoch, |d 1794-1870 |0 (DLC)nr 96017097 
+700 10 |a Burrows, Silas Enoch, |d 1794-1870 |0 (viaf)31894424 |0 
+          (uri)https://viaf.org/viaf/31894424 |9 Feb2015 
+

@@ -1,0 +1,13 @@
+00474xz   2200133n  4500
+001 fst00538057
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00538057 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Sandia Laboratories. |b Systems Studies Dept. 8320 
+710 27 |a Sandia Laboratories. |b Systems Studies Department 8320 |w na |0 
+          (OCoLC)fst01845801 |2 fast 
+710 20 |a Sandia Laboratories. |b Systems Studies Dept. 8320 |0 (DLC)n 
+          79123261 
+

@@ -1,0 +1,14 @@
+00527xz   2200157n  4500
+001 fst00416082
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00416082 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Liber, |c ha-Gadol, |d d. 1770 
+400 0_ |a Lieber, |c the Great, |d d. 1770 
+400 0_ |a Liber ben Avraham Ashkenazi, |c ha-Gadol, mi-Berdiòtshov, |d d. 
+          1770 
+700 07 |a Liber, |c ha-Gadol, |d -1770 |w na |0 (OCoLC)fst01830831 |2 fast 
+700 00 |a Liber, |c ha-Gadol, |d d. 1770 |0 (DLC)n 98034454 
+

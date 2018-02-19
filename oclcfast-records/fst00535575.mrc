@@ -1,0 +1,16 @@
+00633cz   2200181n  4500
+001 fst00535575
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00535575 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Catholic Health Association of the United States 
+410 2_ |a CHA 
+410 2_ |a C.H.A. 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 11 
+710 20 |a Catholic Health Association of the United States |0 (DLC)n 79090596 
+710 20 |a Catholic Health Association of the United States |0 (viaf)125036902 
+       |0 (uri)https://viaf.org/viaf/125036902 |9 Feb2015 
+

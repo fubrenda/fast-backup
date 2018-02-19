@@ -1,0 +1,16 @@
+00619cz   2200169n  4500
+001 fst00176592
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00176592 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Alcock, John, |d 1715-1806 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Alcock, John, |d 1715-1806 |0 (DLC)n 85269840 
+700 04 |a John Alcock (organist) |0 
+          (uri)http://en.wikipedia.org/wiki/John_Alcock_(organist) |9 Feb2015 
+700 10 |a Alcock, John, |d 1715-1806 |0 (viaf)87555620 |0 
+          (uri)https://viaf.org/viaf/87555620 |9 Feb2015 
+

@@ -1,0 +1,20 @@
+00708cz   2200217n  4500
+001 fst00134806
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00134806 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 19460112 |g 20130805 
+100 1_ |a Duke, George 
+370 __ |a San Rafael, Calif. |b Santa Monica, Calif. 
+374 __ |a Keyboard player 
+375 __ |a male 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Duke, George |0 (DLC)n 84041042 
+700 04 |a George Duke |0 (uri)http://en.wikipedia.org/wiki/George_Duke |9 
+          Feb2015 
+700 10 |a Duke, George |0 (viaf)66813228 |0 
+          (uri)https://viaf.org/viaf/66813228 |9 Feb2015 
+

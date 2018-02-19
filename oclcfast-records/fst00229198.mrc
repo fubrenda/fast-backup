@@ -1,0 +1,20 @@
+00819cz   2200205n  4500
+001 fst00229198
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00229198 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Tennyson, Charles, |d 1784-1861 
+400 1_ |a Tennyson-D'Eyncourt, Charles, |d 1784-1861 
+400 1_ |a D'Eyncourt, Charles Tennyson-, |d 1784-1861 
+400 1_ |a Eyncourt, Charles Tennyson-d', |d 1784-1861 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Tennyson, Charles, |d 1784-1861 |0 (DLC)n 88142912 
+700 04 |a Charles Tennyson d'Eyncourt |0 
+          (uri)http://en.wikipedia.org/wiki/Charles_Tennyson_d'Eyncourt |9 
+          Feb2015 
+700 10 |a Tennyson, Charles, |d 1784-1861 |0 (viaf)26157151 |0 
+          (uri)https://viaf.org/viaf/26157151 |9 Feb2015 
+

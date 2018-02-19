@@ -1,0 +1,15 @@
+00646cz   2200169n  4500
+001 fst00706251
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00706251 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Ohio. |b Court of Common Pleas (Franklin County) 
+410 1_ |a Franklin County (Ohio). |b Court of Common Pleas 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 9 
+710 10 |a Ohio. |b Court of Common Pleas (Franklin County) |0 (DLC)n 95039586 
+710 10 |a Ohio. |b Court of Common Pleas (Franklin County) |0 (viaf)145578207 
+       |0 (uri)https://viaf.org/viaf/145578207 |9 Feb2015 
+

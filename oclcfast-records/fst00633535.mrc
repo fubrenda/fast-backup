@@ -1,0 +1,13 @@
+00516xz   2200145n  4500
+001 fst00633535
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00633535 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Portsmouth Polytechnic. |b Dept. of Geography 
+410 2_ |a Portsmouth Polytechnic. |b Geography Dept. 
+710 27 |a Portsmouth Polytechnic. |b Department of Geography |w na |0 
+          (OCoLC)fst01841987 |2 fast 
+710 20 |a Portsmouth Polytechnic. |b Dept. of Geography |0 (DLC)n 88047988 
+

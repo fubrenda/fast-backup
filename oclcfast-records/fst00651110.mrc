@@ -1,0 +1,20 @@
+00874cz   2200217n  4500
+001 fst00651110
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00651110 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Swedish Hospital Medical Center 
+370 __ |e Seattle (Wash.) 
+510 2_ |a Doctors Hospital (Seattle, Wash.) |0 (OCoLC)fst00763011 |w a 
+510 2_ |a Seattle General Hospital (Seattle, Wash.) |0 (OCoLC)fst00641241 |w 
+          a 
+510 2_ |a Swedish Hospital (Seattle, Wash.) |0 (OCoLC)fst00763012 |w a 
+510 2_ |a Providence Hospital (Seattle, Wash.) |0 (OCoLC)fst01790528 |w a 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 16 
+710 20 |a Swedish Hospital Medical Center |0 (DLC)n 88169123 
+710 20 |a Swedish Hospital Medical Center |0 (viaf)129113790 |0 
+          (uri)https://viaf.org/viaf/129113790 |9 Feb2015 
+

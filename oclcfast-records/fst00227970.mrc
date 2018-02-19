@@ -1,0 +1,19 @@
+00647cz   2200217n  4500
+001 fst00227970
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00227970 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1948 
+100 1_ |a Wudl, Tom, |d 1948- 
+370 __ |a Cochabamba, Bolivia 
+370 __ |f California, Southern |2 lcsh 
+374 __ |a Painters |2 lcsh 
+375 __ |a male 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 10 
+700 10 |a Wudl, Tom, |d 1948- |0 (DLC)n 87863256 
+700 10 |a Wudl, Tom, |d 1948- |0 (viaf)57765149 |0 
+          (uri)https://viaf.org/viaf/57765149 |9 Feb2015 
+

@@ -1,0 +1,13 @@
+00482xz   2200157n  4500
+001 fst00312820
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00312820 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Lane, Samuel, |d d. 1822 
+400 1_ |a Lane, S. |q (Samuel), |d d. 1822 
+400 1_ |a Lane, |c Col. |q (Samuel), |d d. 1822 
+700 17 |a Lane, Samuel, |d -1822 |w na |0 (OCoLC)fst01829900 |2 fast 
+700 10 |a Lane, Samuel, |d d. 1822 |0 (DLC)nr 92039547 
+

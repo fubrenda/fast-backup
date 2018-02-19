@@ -1,0 +1,19 @@
+00853cz   2200205n  4500
+001 fst00522895
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00522895 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Tanzania. |b Wizara ya Maendeleo ya Utumishi 
+410 1_ |a Tanzania. |b Maendeleo ya Utumishi, Wizara ya 
+410 1_ |a Tanzania. |b Manpower Development, Ministry of 
+410 1_ |a Tanzania. |b Ministry of Manpower Development 
+510 1_ |a Tanzania. |b Wizara ya Maendeleo ya Utumishi na Uendeshaji Kazi |0 
+          (OCoLC)fst00584780 |w b 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+710 10 |a Tanzania. |b Wizara ya Maendeleo ya Utumishi |0 (DLC)n 77006240 
+710 10 |a Tanzania. |b Wizara ya Maendeleo ya Utumishi |0 (viaf)129608678 |0 
+          (uri)https://viaf.org/viaf/129608678 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00815cz   2200181n  4500
+001 fst00632157
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00632157 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Edinburgh Society for Promoting the Mitigation and Ultimate 
+          Abolition of Negro Slavery 
+410 2_ |a Edinburgh Abolition Society 
+410 2_ |a Edinburgh Society for the Abolition of Negro Slavery 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 21 
+710 20 |a Edinburgh Society for Promoting the Mitigation and Ultimate 
+          Abolition of Negro Slavery |0 (DLC)n 87860755 
+710 20 |a Edinburgh Society for Promoting the Mitigation and Ultimate 
+          Abolition of Negro Slavery |0 (viaf)152540491 |0 
+          (uri)https://viaf.org/viaf/152540491 |9 Feb2015 
+

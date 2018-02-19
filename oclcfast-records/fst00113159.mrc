@@ -1,0 +1,19 @@
+00741cz   2200205n  4500
+001 fst00113159
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00113159 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Musket, George, |d 1583-1645 
+400 1_ |a Muskett, George, |d 1583-1645 
+400 1_ |a Muschet, George, |d 1583-1645 
+400 1_ |a Fisher, George, |d 1583-1645 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 19 
+700 10 |a Musket, George, |d 1583-1645 |0 (DLC)n 83070486 
+700 04 |a George Musket |0 (uri)http://en.wikipedia.org/wiki/George_Musket |9 
+          Feb2015 
+700 10 |a Musket, George, |d 1583-1645 |0 (viaf)33371390 |0 
+          (uri)https://viaf.org/viaf/33371390 |9 Feb2015 
+

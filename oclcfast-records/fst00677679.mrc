@@ -1,0 +1,16 @@
+00668cz   2200169n  4500
+001 fst00677679
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00677679 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Columbia College (New York, N.Y.). |b School of Law 
+510 2_ |a Columbia University. |b School of Law |0 (OCoLC)fst00575977 |w b 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 24 
+710 20 |a Columbia College (New York, N.Y.). |b School of Law |0 (DLC)no 
+          92011696 
+710 20 |a Columbia College (New York, N.Y.). |b School of Law |0 
+          (viaf)167523563 |0 (uri)https://viaf.org/viaf/167523563 |9 Feb2015 
+

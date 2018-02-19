@@ -1,0 +1,14 @@
+00523xz   2200169n  4500
+001 fst00475190
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00475190 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Durham, Ephraim, |d d. 1725 
+400 1_ |a Durrum, Ephraim, |d d. 1725 
+400 1_ |a Darwin, Ephraim, |d d. 1725 
+400 1_ |a Durrum, Ephrem, |d d. 1725 
+700 17 |a Durham, Ephraim, |d -1725 |w na |0 (OCoLC)fst01816755 |2 fast 
+700 10 |a Durham, Ephraim, |d d. 1725 |0 (DLC)n 2002028351 
+

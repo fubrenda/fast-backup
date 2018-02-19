@@ -1,0 +1,14 @@
+00479cz   2200157n  4500
+001 fst00306793
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00306793 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Holt, Daniel 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Holt, Daniel |0 (DLC)nr 92024469 
+700 10 |a Holt, Daniel |0 (viaf)44163033 |0 
+          (uri)https://viaf.org/viaf/44163033 |9 Feb2015 
+

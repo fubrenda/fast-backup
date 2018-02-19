@@ -1,0 +1,15 @@
+00522cz   2200169n  4500
+001 fst00035389
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00035389 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PS3563.E747 
+100 1_ |a Peters, Elizabeth 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Peters, Elizabeth |0 (DLC)no2008116994 
+700 10 |a Peters, Elizabeth |0 (viaf)36923009 |0 
+          (uri)https://viaf.org/viaf/36923009 |9 Feb2015 
+

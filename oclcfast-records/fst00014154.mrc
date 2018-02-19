@@ -1,0 +1,24 @@
+00890cz   2200265n  4500
+001 fst00014154
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00014154 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1927 
+053 _0 |a PR9499.3.N25 
+100 1_ |a Nahal, Chaman Lal, |d 1927- 
+400 0_ |a Camana Nåahala, |d 1927- 
+400 0_ |a Chaman Lal Nahal, |d 1927- 
+400 0_ |a Chaman Nahal, |d 1927- 
+400 1_ |a Nahal, Chaman, |d 1927- 
+400 1_ |a Nåahala, Camana, |d 1927- 
+400 1_ |a Neæikhal, Chaman, |d 1927- 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 8 
+700 10 |a Nahal, Chaman Lal, |d 1927- |0 (DLC)n 50041353 
+700 04 |a Chaman Nahal |0 (uri)http://en.wikipedia.org/wiki/Chaman_Nahal |9 
+          Feb2015 
+700 10 |a Nahal, Chaman Lal, |d 1927- |0 (viaf)66480887 |0 
+          (uri)https://viaf.org/viaf/66480887 |9 Feb2015 
+

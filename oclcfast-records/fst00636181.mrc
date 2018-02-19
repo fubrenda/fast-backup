@@ -1,0 +1,14 @@
+00548xz   2200145n  4500
+001 fst00636181
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00636181 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Columbia-Presbyterian Medical Center. |b Dept. of Urology 
+410 2_ |a Columbia University. |b Dept. of Urology 
+710 27 |a Columbia-Presbyterian Medical Center. |b Department of Urology |w 
+          na |0 (OCoLC)fst01813365 |2 fast 
+710 20 |a Columbia-Presbyterian Medical Center. |b Dept. of Urology |0 (DLC)n 
+          88633086 
+

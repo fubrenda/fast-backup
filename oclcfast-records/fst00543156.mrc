@@ -1,0 +1,17 @@
+00635cz   2200193n  4500
+001 fst00543156
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00543156 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a American Economic Association 
+372 __ |a Economics |2 lcsh 
+377 __ |a eng 
+410 2_ |a Beikoku Keizaigaku Kyåokai 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 129 (136) 
+710 20 |a American Economic Association |0 (DLC)n 80044605 
+710 20 |a American Economic Association |0 (viaf)148600662 |0 
+          (uri)https://viaf.org/viaf/148600662 |9 Feb2015 
+

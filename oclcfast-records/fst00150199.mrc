@@ -1,0 +1,14 @@
+00535cz   2200157n  4500
+001 fst00150199
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00150199 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Grâeterin, Thâeodore, |d 1794-1861 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Grâeterin, Thâeodore, |d 1794-1861 |0 (DLC)n 85109330 
+700 10 |a Grâeterin, Thâeodore, |d 1794-1861 |0 (viaf)6134615 |0 
+          (uri)https://viaf.org/viaf/6134615 |9 Feb2015 
+

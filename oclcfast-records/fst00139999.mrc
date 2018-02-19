@@ -1,0 +1,16 @@
+00574cz   2200169n  4500
+001 fst00139999
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00139999 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Boxer, Stanley 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 78 
+700 10 |a Boxer, Stanley |0 (DLC)n 84806395 
+700 04 |a Stanley Boxer |0 (uri)http://en.wikipedia.org/wiki/Stanley_Boxer |9 
+          Feb2015 
+700 10 |a Boxer, Stanley |0 (viaf)37189489 |0 
+          (uri)https://viaf.org/viaf/37189489 |9 Feb2015 
+

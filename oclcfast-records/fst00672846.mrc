@@ -1,0 +1,16 @@
+00681cz   2200181n  4500
+001 fst00672846
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00672846 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a St. Ferdinand's Church (Florissant, Mo.) 
+410 2_ |a Saint Ferdinand's Church (Florissant, Mo.) 
+410 2_ |a St. Ferdinand's Parish (Florissant, Mo.) 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 9 
+710 20 |a St. Ferdinand's Church (Florissant, Mo.) |0 (DLC)n 91121178 
+710 20 |a St. Ferdinand's Church (Florissant, Mo.) |0 (viaf)157244428 |0 
+          (uri)https://viaf.org/viaf/157244428 |9 Feb2015 
+

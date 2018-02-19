@@ -1,0 +1,14 @@
+00492xz   2200169n  4500
+001 fst00010772
+003 OCoLC
+005 20080627153116.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00010772 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PQ2605.A317 
+100 1_ |a Calef, Noèel, |d 1907- 
+400 1_ |a Calef, Nissim, |d 1907- 
+400 1_ |a Kalef, Nisim, |d 1907- 
+700 10 |a Calef, Noèel, |d 1907- |0 (DLC)n 50032165 
+700 17 |a Calef, Noèel, |d 1907-1968 |w na |0 (OCoLC)fst01434244 |2 fast 
+

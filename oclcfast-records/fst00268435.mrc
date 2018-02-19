@@ -1,0 +1,14 @@
+00485cz   2200157n  4500
+001 fst00268435
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00268435 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Eriksen, Peter 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Eriksen, Peter |0 (DLC)n 90639033 
+700 10 |a Eriksen, Peter |0 (viaf)70550293 |0 
+          (uri)https://viaf.org/viaf/70550293 |9 Feb2015 
+

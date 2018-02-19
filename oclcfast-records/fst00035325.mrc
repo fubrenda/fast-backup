@@ -1,0 +1,14 @@
+00498xz   2200169n  4500
+001 fst00035325
+003 OCoLC
+005 20110415124544.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00035325 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PC3941.A63 
+100 1_ |a Alavedra, Joan, |d 1896- 
+400 1_ |a Alavedra, Juan, |d 1896- 
+400 1_ |a Alavedra, J., |d 1896- 
+700 17 |a Alavedra, Joan, |d 1896-1981 |w na |0 (OCoLC)fst01756992 |2 fast 
+700 10 |a Alavedra, Joan, |d 1896- |0 (DLC)n 79054365 
+

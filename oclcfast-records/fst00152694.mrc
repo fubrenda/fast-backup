@@ -1,0 +1,15 @@
+00560cz   2200169n  4500
+001 fst00152694
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00152694 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Franco Guachalla, Alfredo 
+400 1_ |a Guachalla, Alfredo Franco 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Franco Guachalla, Alfredo |0 (DLC)n 85030961 
+700 10 |a Franco Guachalla, Alfredo |0 (viaf)255346869 |0 
+          (uri)https://viaf.org/viaf/255346869 |9 Feb2015 
+

@@ -1,0 +1,17 @@
+00622cz   2200193n  4500
+001 fst00550867
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00550867 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Toppan Insatsu Kabushiki Kaisha 
+370 __ |c Japan |2 naf 
+377 __ |a jpn 
+410 2_ |a Toppan Printing Co. 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 18 
+710 20 |a Toppan Insatsu Kabushiki Kaisha |0 (DLC)n 80142442 
+710 20 |a Toppan Insatsu Kabushiki Kaisha |0 (viaf)122555762 |0 
+          (uri)https://viaf.org/viaf/122555762 |9 Feb2015 
+

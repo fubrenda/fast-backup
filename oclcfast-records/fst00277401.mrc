@@ -1,0 +1,12 @@
+00460xz   2200133n  4500
+001 fst00277401
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00277401 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Rusa |b II, |c King of Urartu, |d 7th cent. B.C. 
+700 07 |a Rusa |b II, |c King of Urartu, |d active 7th century B.C. |w na |0 
+          (OCoLC)fst01845042 |2 fast 
+700 00 |a Rusa |b II, |c King of Urartu, |d 7th cent. B.C. |0 (DLC)n 90709787 
+

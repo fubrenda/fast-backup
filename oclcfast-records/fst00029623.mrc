@@ -1,0 +1,15 @@
+00514cz   2200169n  4500
+001 fst00029623
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00029623 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Colgan, Bill 
+400 1_ |a Colgan, William B. 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Colgan, Bill |0 (DLC)n 79001572 
+700 10 |a Colgan, Bill |0 (viaf)25761073 |0 
+          (uri)https://viaf.org/viaf/25761073 |9 Feb2015 
+

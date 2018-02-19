@@ -1,0 +1,19 @@
+00838cz   2200205n  4500
+001 fst00172414
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00172414 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Charles |b III, |c King of France, |d 879-929 
+400 0_ |a Charles |b III, |c le Simple, King of France, |d 879-929 
+400 0_ |a Charles |b III, |c the Simple, King of France, |d 879-929 
+400 0_ |a Charles, |c le Simple, |d 879-929 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 16 
+700 00 |a Charles |b III, |c King of France, |d 879-929 |0 (DLC)n 85356798 
+700 00 |a Charles |b III, |c King of France, |d 879-929 |0 (viaf)37061323 |0 
+          (uri)https://viaf.org/viaf/37061323 |9 Feb2015 
+700 04 |a Charles the Simple |0 
+          (uri)http://en.wikipedia.org/wiki/Charles_the_Simple |9 Feb2015 
+

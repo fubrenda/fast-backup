@@ -1,0 +1,15 @@
+00590cz   2200169n  4500
+001 fst00304767
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00304767 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Toshima, Akishige, |d 1579-1628 
+400 0_ |a Toshima Gyåobu Shåoyåu Akishige, |d 1579-1628 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Toshima, Akishige, |d 1579-1628 |0 (DLC)nr 92019250 
+700 10 |a Toshima, Akishige, |d 1579-1628 |0 (viaf)68793509 |0 
+          (uri)https://viaf.org/viaf/68793509 |9 Feb2015 
+

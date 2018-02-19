@@ -1,0 +1,16 @@
+00579cz   2200181n  4500
+001 fst00533547
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00533547 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Duomo di Milano 
+410 2_ |a Duomo (Milan, Italy) 
+410 1_ |a Milan (Italy). |b Duomo 
+688 __ |a LC (2016) Subject Usage: 35 (38) 
+688 __ |a WC (2016) Subject Usage: 458 (488) 
+710 20 |a Duomo di Milano |0 (DLC)n 79063271 
+710 20 |a Duomo di Milano |0 (viaf)151230415 |0 
+          (uri)https://viaf.org/viaf/151230415 |9 Feb2015 
+

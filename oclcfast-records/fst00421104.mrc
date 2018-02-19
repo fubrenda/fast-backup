@@ -1,0 +1,19 @@
+00758cz   2200205n  4500
+001 fst00421104
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00421104 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ferrandis, Antonio, |d 1921-2000 
+370 __ |a Paterna (Spain) |b Valencia (Spain) |2 naf 
+374 __ |a Actors |2 lcsh 
+400 1_ |a Ferrandis, Antonio, |d 1921- |w nne 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Ferrandis, Antonio, |d 1921-2000 |0 (DLC)nr 98027991 
+700 04 |a Antonio Ferrandis |0 
+          (uri)http://en.wikipedia.org/wiki/Antonio_Ferrandis |9 Feb2015 
+700 10 |a Ferrandis, Antonio, |d 1921- |0 (viaf)103214031 |0 
+          (uri)https://viaf.org/viaf/103214031 |9 Feb2015 
+

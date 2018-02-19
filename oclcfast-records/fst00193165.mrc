@@ -1,0 +1,17 @@
+00665cz   2200193n  4500
+001 fst00193165
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00193165 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Code, H. B. |q (Henry Brereton) 
+400 0_ |a H. B. C. |q (Henry Brereton Code) 
+400 1_ |a C., H. B. |q (Code, Henry Brereton) 
+400 1_ |a Code, Henry Brereton 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Code, H. B. |q (Henry Brereton) |0 (DLC)n 86135534 
+700 10 |a Code, H. B. |q (Henry Brereton) |0 (viaf)65496418 |0 
+          (uri)https://viaf.org/viaf/65496418 |9 Feb2015 
+

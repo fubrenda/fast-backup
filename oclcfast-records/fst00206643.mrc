@@ -1,0 +1,15 @@
+00592cz   2200169n  4500
+001 fst00206643
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00206643 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a White, Elizabeth Pearce, |d 1782-1872 
+400 1_ |a Pearce, Elizabeth, |d 1782-1872 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a White, Elizabeth Pearce, |d 1782-1872 |0 (DLC)n 87126245 
+700 10 |a White, Elizabeth Pearce, |d 1782-1872 |0 (viaf)31046114 |0 
+          (uri)https://viaf.org/viaf/31046114 |9 Feb2015 
+

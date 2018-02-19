@@ -1,0 +1,22 @@
+00767cz   2200229n  4500
+001 fst00359584
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00359584 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Vitali, Velasco 
+370 __ |a Bellano (Italy) |2 naf 
+372 __ |a Sculpture |a Painting |a Motion pictures |a Illustration of books 
+       |2 lcsh 
+374 __ |a Sculptors |a Painters |a Illustrators |a Motion picture producers 
+          and directors |2 lcsh 
+375 __ |a male 
+377 __ |a ita 
+400 0_ |a Velasco 
+688 __ |a LC (2016) Subject Usage: 5 
+688 __ |a WC (2016) Subject Usage: 24 
+700 10 |a Vitali, Velasco |0 (DLC)n 95076064 
+700 10 |a Vitali, Velasco |0 (viaf)3276901 |0 
+          (uri)https://viaf.org/viaf/3276901 |9 Feb2015 
+

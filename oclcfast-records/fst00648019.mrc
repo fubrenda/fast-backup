@@ -1,0 +1,22 @@
+00973cz   2200181n  4500
+001 fst00648019
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00648019 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a National Laboratory for Collaborative Research in Cognition and 
+          Survey Measurement (U.S.) 
+410 2_ |a National Center for Health Statistics (U.S.). |b National 
+          Laboratory for Collaborative Research in Cognition and Survey 
+          Measurement 
+410 1_ |a United States. |b National Laboratory for Collaborative Research in 
+          Cognition and Survey Measurement 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+710 20 |a National Laboratory for Collaborative Research in Cognition and 
+          Survey Measurement (U.S.) |0 (DLC)no 89005927 
+710 20 |a National Laboratory for Collaborative Research in Cognition and 
+          Survey Measurement (U.S.) |0 (viaf)143343688 |0 
+          (uri)https://viaf.org/viaf/143343688 |9 Feb2015 
+

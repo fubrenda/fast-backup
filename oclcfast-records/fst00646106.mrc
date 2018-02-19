@@ -1,0 +1,18 @@
+00764cz   2200193n  4500
+001 fst00646106
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00646106 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Rio Grande, Pueblo, and Southern Railroad Company 
+410 2_ |a D&RG Zinc Smelter Spur 
+410 2_ |a Rio Grande, Pueblo, and Southern Railroad 
+510 2_ |a Denver and Rio Grande Railroad Company |0 (OCoLC)fst00577308 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+710 20 |a Rio Grande, Pueblo, and Southern Railroad Company |0 (DLC)n 
+          88224373 
+710 20 |a Rio Grande, Pueblo, and Southern Railroad Company |0 
+          (viaf)151382001 |0 (uri)https://viaf.org/viaf/151382001 |9 Feb2015 
+

@@ -1,0 +1,14 @@
+00533xz   2200157n  4500
+001 fst00368151
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00368151 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Hering, Loy, |d 1484 or 5-ca. 1554 
+400 1_ |a Hering, Leome, |d 1484 or 5-ca. 1554 
+400 1_ |a Hering Leo, |d 1484 or 5-ca. 1554 
+700 17 |a Hering, Loy, |d 1484 or 1485-approximately 1554 |w na |0 
+          (OCoLC)fst01823733 |2 fast 
+700 10 |a Hering, Loy, |d 1484 or 5-ca. 1554 |0 (DLC)nr 96002645 
+

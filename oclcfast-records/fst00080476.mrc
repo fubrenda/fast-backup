@@ -1,0 +1,25 @@
+01000cz   2200277n  4500
+001 fst00080476
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00080476 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1908 
+100 1_ |a Samsonov, A. M. |q (Aleksandr Mikhaæilovich), |d 1908-1992 
+370 __ |a Nizhniæi Novgorod (Russia) |b Moscow (Russia) |c Russia |2 naf 
+372 __ |a World War, 1939-1945 |2 lcsh 
+374 __ |a Historians |a College teachers |2 lcsh 
+375 __ |a male 
+377 __ |a rus 
+378 __ |q Aleksandr Mikhaæilovich 
+400 1_ |a Samsonov, Aleksandr Mikhaæilovich |w nne 
+400 1_ |a Samsonow, A. M., |d 1908-1992 
+400 1_ |a Samsonow, Aleksander M., |d 1908-1992 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Samsonov, A. M. |q (Aleksandr Mikhaæilovich), |d 1908-1992 |0 
+          (DLC)n 81117059 
+700 10 |a Samsonov, Aleksandr Mikhaæilovich |0 (viaf)8392367 |0 
+          (uri)https://viaf.org/viaf/8392367 |9 Feb2015 
+

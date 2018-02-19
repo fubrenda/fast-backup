@@ -1,0 +1,23 @@
+00933cz   2200253n  4500
+001 fst00283707
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00283707 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PJ5129.S768 
+100 1_ |a Shternberg, Yakov, |d 1890-1973 
+400 1_ |a Shòternberg, Ya°aòkov, |d 1890-1973 
+400 1_ |a Shòternberg, Yanòkeòv, |d 1890-1973 
+400 1_ |a Sternberg, Jacob, |d 1890-1973 
+400 1_ |a Shternberg, ëIìAkov, |d 1890-1973 
+400 1_ |a Sternberg, Iacob, |d 1890- 
+400 1_ |a Sternberg, Iacob, |d 1890-1973 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Shternberg, Yakov, |d 1890-1973 |0 (DLC)no 91007567 
+700 04 |a Yankev Shternberg |0 
+          (uri)http://en.wikipedia.org/wiki/Yankev_Shternberg |9 Feb2015 
+700 10 |a Shternberg, Yakov, |d 1890-1973 |0 (viaf)55070099 |0 
+          (uri)https://viaf.org/viaf/55070099 |9 Feb2015 
+

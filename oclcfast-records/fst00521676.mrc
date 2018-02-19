@@ -1,0 +1,20 @@
+00827cz   2200181n  4500
+001 fst00521676
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00521676 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a United States. |b Commission on Population Growth and the American 
+          Future 
+410 2_ |a Commission on Population Growth and the American Future (U.S.) 
+410 1_ |a United States. |b Population Growth and the American Future, 
+          Commission on 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 16 
+710 10 |a United States. |b Commission on Population Growth and the American 
+          Future |0 (DLC)n 50080516 
+710 10 |a United States. |b Commission on Population Growth and the American 
+          Future |0 (viaf)156538414 |0 (uri)https://viaf.org/viaf/156538414 |9 
+          Feb2015 
+

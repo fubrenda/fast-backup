@@ -1,0 +1,14 @@
+00563cz   2200157n  4500
+001 fst00621941
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00621941 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Apostolic Overcoming Holy Church of God 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 12 
+710 20 |a Apostolic Overcoming Holy Church of God |0 (DLC)n 87813035 
+710 20 |a Apostolic Overcoming Holy Church of God |0 (viaf)132617694 |0 
+          (uri)https://viaf.org/viaf/132617694 |9 Feb2015 
+

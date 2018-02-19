@@ -1,0 +1,20 @@
+00899cz   2200193n  4500
+001 fst00544072
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00544072 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a South Africa. |b Western Transvaal Area Administration Board 
+410 1_ |a South Africa. |b Administrasieraad, Wes-Transvaalse Gebied 
+510 1_ |a South Africa. |b Western Transvaal Area Bantu Affairs 
+          Administration Board |0 (OCoLC)fst00698638 |w a 
+510 1_ |a South Africa. |b Western Transvaal Area Development Board |0 
+          (OCoLC)fst00611104 |w b 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+710 10 |a South Africa. |b Western Transvaal Area Administration Board |0 
+          (DLC)n 80052296 
+710 10 |a South Africa. |b Western Transvaal Area Administration Board |0 
+          (viaf)157102518 |0 (uri)https://viaf.org/viaf/157102518 |9 Feb2015 
+

@@ -1,0 +1,15 @@
+00593cz   2200169n  4500
+001 fst00409758
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00409758 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Blansett, Delia Belle Spears, |d 1916- 
+400 1_ |a Spears, Delia Belle, |d 1916- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Blansett, Delia Belle Spears, |d 1916- |0 (DLC)n 97124158 
+700 10 |a Blansett, Delia Belle Spears, |d 1916- |0 (viaf)1764100 |0 
+          (uri)https://viaf.org/viaf/1764100 |9 Feb2015 
+

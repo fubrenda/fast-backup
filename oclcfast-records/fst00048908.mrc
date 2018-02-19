@@ -1,0 +1,17 @@
+00594cz   2200181n  4500
+001 fst00048908
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00048908 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PS3558.O34726 
+100 1_ |a Hogan, Linda 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 47 
+700 10 |a Hogan, Linda |0 (DLC)n 80006887 
+700 04 |a Linda Hogan |0 (uri)http://en.wikipedia.org/wiki/Linda_Hogan |9 
+          Feb2015 
+700 10 |a Hogan, Linda |0 (viaf)79089830 |0 
+          (uri)https://viaf.org/viaf/79089830 |9 Feb2015 
+

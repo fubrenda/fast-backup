@@ -1,0 +1,18 @@
+00701cz   2200205n  4500
+001 fst00463961
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00463961 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Såaòthe, Sadåaâsiva, |d 1926- 
+400 0_ |a Sadåaâsiva Såaòthe, |d 1926- 
+400 0_ |a Sadåaâsiva Dattåatraya Såaòthe, |d 1926- 
+400 0_ |a Sadashiv Sathe, |d 1926- 
+400 1_ |a Sathe, Sadashiv, |d 1926- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Såaòthe, Sadåaâsiva, |d 1926- |0 (DLC)no2001045083 
+700 10 |a Såaòthe, Sadåaâsiva, |d 1926- |0 (viaf)61195795 |0 
+          (uri)https://viaf.org/viaf/61195795 |9 Feb2015 
+

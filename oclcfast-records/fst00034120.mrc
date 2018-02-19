@@ -1,0 +1,12 @@
+00435xz   2200145n  4500
+001 fst00034120
+003 OCoLC
+005 20111024131155.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00034120 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Handlin, Oscar, |d 1915- 
+400 1_ |a Khandlin, Oskar, |d 1915- 
+700 17 |a Handlin, Oscar, |d 1915-2011 |w na |0 (OCoLC)fst01773420 |2 fast 
+700 10 |a Handlin, Oscar, |d 1915- |0 (DLC)n 79043414 
+

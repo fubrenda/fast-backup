@@ -1,0 +1,17 @@
+00680cz   2200181n  4500
+001 fst00202404
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00202404 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Allen, George, |d 1808-1876 
+400 1_ |a Allen, |c Professor |q (George), |d 1808-1876 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 9 
+700 10 |a Allen, George, |d 1808-1876 |0 (DLC)n 87106881 
+700 04 |a George Allen (Vermont) |0 
+          (uri)http://en.wikipedia.org/wiki/George_Allen_(Vermont) |9 Feb2015 
+700 10 |a Allen, George, |d 1808-1876 |0 (viaf)47547724 |0 
+          (uri)https://viaf.org/viaf/47547724 |9 Feb2015 
+

@@ -1,0 +1,17 @@
+00659xz   2200181n  4500
+001 fst00602959
+003 OCoLC
+005 20090330152002.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00602959 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Quechan Tribe 
+410 2_ |a Ft. Yuma Quechan Indians 
+410 2_ |a Quechan Tribe of the Fort Yuma Reservation, California 
+410 2_ |a Quechan Indian Tribe of the Fort Yuma Indian Reservation, 
+          California 
+410 2_ |a Fort Yuma-Quechan Tribe 
+710 20 |a Quechan Tribe |0 (DLC)n 85088291 
+710 27 |a Quechan Tribe of the Fort Yuma Indian Reservation, California & 
+          Arizona |w na |0 (OCoLC)fst01715412 |2 fast 
+

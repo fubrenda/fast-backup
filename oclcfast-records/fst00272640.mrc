@@ -1,0 +1,18 @@
+00686cz   2200193n  4500
+001 fst00272640
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00272640 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Fiorito, Ted, |d 1900-1971 
+400 1_ |a Fio Rito, Ted, |d 1900-1971 
+400 1_ |a Rito, Ted Fio, |d 1900-1971 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 10 
+700 10 |a Fiorito, Ted, |d 1900-1971 |0 (DLC)n 90671576 
+700 04 |a Ted Fio Rito |0 (uri)http://en.wikipedia.org/wiki/Ted_Fio_Rito |9 
+          Feb2015 
+700 10 |a Fiorito, Ted, |d 1900-1971 |0 (viaf)19865204 |0 
+          (uri)https://viaf.org/viaf/19865204 |9 Feb2015 
+

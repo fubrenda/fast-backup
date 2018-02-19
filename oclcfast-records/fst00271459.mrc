@@ -1,0 +1,16 @@
+00572cz   2200181n  4500
+001 fst00271459
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00271459 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Yi, Kyu-jong, |d 1929- 
+400 1_ |a Yi, Unyæon, |d 1929- 
+400 1_ |a Yi, Un-yæon, |d 1929- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Yi, Kyu-jong, |d 1929- |0 (DLC)n 89117829 
+700 10 |a Yi, Kyu-jong, |d 1929- |0 (viaf)6522138 |0 
+          (uri)https://viaf.org/viaf/6522138 |9 Feb2015 
+

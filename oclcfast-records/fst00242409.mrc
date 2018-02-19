@@ -1,0 +1,24 @@
+00977cz   2200253n  4500
+001 fst00242409
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00242409 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Roberts, Robert 
+370 __ |a Charleston (S.C.) |b Boston (Mass.) |c United States |2 naf 
+373 __ |a American Colonization Society |2 naf 
+373 __ |a Noyes Academy, Canaan, N.H. |a African (First Independent) Baptist 
+          Church |a Prince Hall Masons 
+374 __ |a Household employees |a Abolitionists |a Authors |2 lcsh 
+375 __ |a male 
+377 __ |a eng 
+400 1_ |a Roberts, Robert, |c servant 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 12 
+700 10 |a Roberts, Robert |0 (DLC)n 88068470 
+700 04 |a Robert Roberts (butler) |0 
+          (uri)http://en.wikipedia.org/wiki/Robert_Roberts_(butler) |9 Feb2015 
+700 10 |a Roberts, Robert |0 (viaf)100650653 |0 
+          (uri)https://viaf.org/viaf/100650653 |9 Feb2015 
+

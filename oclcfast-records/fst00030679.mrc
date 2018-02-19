@@ -1,0 +1,12 @@
+00448xz   2200145n  4500
+001 fst00030679
+003 OCoLC
+005 20130111095856.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00030679 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Marris, Robin Lapthorn, |d 1924- 
+400 1_ |a Marris, Robin, |d 1924- 
+700 17 |a Marris, Robin, |d 1924-2012 |w na |0 (OCoLC)fst01801240 |2 fast 
+700 10 |a Marris, Robin Lapthorn, |d 1924- |0 (DLC)n 79011142 
+

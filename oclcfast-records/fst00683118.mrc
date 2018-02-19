@@ -1,0 +1,14 @@
+00514cz   2200157n  4500
+001 fst00683118
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00683118 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Westley Richards (Firm) 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 8 
+710 20 |a Westley Richards (Firm) |0 (DLC)no 92031583 
+710 20 |a Westley Richards (Firm) |0 (viaf)139839464 |0 
+          (uri)https://viaf.org/viaf/139839464 |9 Feb2015 
+

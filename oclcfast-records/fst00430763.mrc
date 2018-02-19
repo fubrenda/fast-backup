@@ -1,0 +1,17 @@
+00643cz   2200169n  4500
+001 fst00430763
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00430763 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ducretet, Eugáene, |d 1844-1915 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Ducretet, Eugáene, |d 1844-1915 |0 (DLC)nb 99027118 
+700 04 |a Eugáene Adrien Ducretet |0 
+          (uri)http://en.wikipedia.org/wiki/Euge%CC%80ne_Adrien_Ducretet |9 
+          Feb2015 
+700 10 |a Ducretet, Eugáene, |d 1844-1915 |0 (viaf)66594581 |0 
+          (uri)https://viaf.org/viaf/66594581 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00767cz   2200205n  4500
+001 fst00157813
+003 OCoLC
+005 20160713112128.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00157813 |z fst00507862 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 17070410 |g 17820118 
+100 1_ |a Pringle, John, |c Sir, |d 1707-1782 
+400 1_ |a Pringle, John, |d 1707-1782 |w nne 
+400 1_ |a Pringle, |c M. |q (John), |d 1707-1782 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 24 
+700 10 |a Pringle, John, |c Sir, |d 1707-1782 |0 (DLC)n 85067264 
+700 04 |a John Pringle |0 (uri)http://en.wikipedia.org/wiki/John_Pringle |9 
+          Feb2015 
+700 10 |a Pringle, John, |c Sir, |d 1707-1782 |0 (viaf)12476776 |0 
+          (uri)https://viaf.org/viaf/12476776 |9 Feb2015 
+

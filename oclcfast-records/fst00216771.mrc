@@ -1,0 +1,16 @@
+00500cz   2200193n  4500
+001 fst00216771
+003 OCoLC
+005 20080131204809.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00216771 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 3_ |a Olds family 
+400 3_ |a Oalds family 
+400 3_ |a Old family 
+400 3_ |a Oldis family 
+400 3_ |a Ould family 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 29 
+700 30 |a Olds family |0 (DLC)sh 85094583 
+

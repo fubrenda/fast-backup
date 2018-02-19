@@ -1,0 +1,12 @@
+00425xz   2200133n  4500
+001 fst00349786
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00349786 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a LaGuire, Peter, |d ca. 1822-1892 
+700 17 |a LaGuire, Peter, |d approximately 1822-1892 |w na |0 
+          (OCoLC)fst01829720 |2 fast 
+700 10 |a LaGuire, Peter, |d ca. 1822-1892 |0 (DLC)n 95000300 
+

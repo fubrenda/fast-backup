@@ -1,0 +1,25 @@
+00981cz   2200277n  4500
+001 fst00191331
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00191331 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 17520727 |g 18390422 
+100 1_ |a Smith, Samuel, |d 1752-1839 
+370 __ |e Baltimore, Md. 
+373 __ |a Maryland. Militia 
+373 __ |a United States. Congress. House 
+373 __ |a United States. Congress. Senate 
+374 __ |a Legislators |2 lcsh 
+374 __ |a Mayors |2 lcsh 
+400 1_ |a Smith, S. |q (Samuel), |d 1752-1839 
+400 1_ |a Smith, |c Mr. |q (Samuel), |d 1752-1839 
+688 __ |a LC (2016) Subject Usage: 4 
+688 __ |a WC (2016) Subject Usage: 45 
+700 10 |a Smith, Samuel, |d 1752-1839 |0 (DLC)n 85352235 
+700 04 |a Samuel Smith (Maryland) |0 
+          (uri)http://en.wikipedia.org/wiki/Samuel_Smith_(Maryland) |9 Feb2015 
+700 10 |a Smith, Samuel, |d 1752-1839 |0 (viaf)65467899 |0 
+          (uri)https://viaf.org/viaf/65467899 |9 Feb2015 
+

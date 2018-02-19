@@ -1,0 +1,17 @@
+00721cz   2200157n  4500
+001 fst00642034
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00642034 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Friendly Association for Regaining and Preserving Peace with the 
+          Indians by Pacific Measures 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 8 
+710 20 |a Friendly Association for Regaining and Preserving Peace with the 
+          Indians by Pacific Measures |0 (DLC)n 88131528 
+710 20 |a Friendly Association for Regaining and Preserving Peace with the 
+          Indians by Pacific Measures |0 (viaf)152551103 |0 
+          (uri)https://viaf.org/viaf/152551103 |9 Feb2015 
+

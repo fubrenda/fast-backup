@@ -1,0 +1,18 @@
+00688cz   2200205n  4500
+001 fst00519362
+003 OCoLC
+005 20160713112128.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00519362 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Alabama Public Library Service 
+410 2_ |a A.P.L.S. 
+410 1_ |a Alabama. |b Alabama Public Library Service 
+410 1_ |a Alabama. |b Public Library Service 
+410 2_ |a APLS 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 20 
+710 20 |a Alabama Public Library Service |0 (DLC)n 50073822 
+710 20 |a Alabama Public Library Service |0 (viaf)137179193 |0 
+          (uri)https://viaf.org/viaf/137179193 |9 Feb2015 
+

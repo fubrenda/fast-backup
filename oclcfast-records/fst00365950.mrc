@@ -1,0 +1,18 @@
+00645cz   2200205n  4500
+001 fst00365950
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00365950 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1794 |g 1865 
+100 1_ |a Ridolfi, Cosimo, |d 1794-1865 
+374 __ |a Agriculturalists |a Politicians |2 lcsh 
+375 __ |a male 
+377 __ |a ita 
+688 __ |a LC (2016) Subject Usage: 6 
+688 __ |a WC (2016) Subject Usage: 36 
+700 10 |a Ridolfi, Cosimo, |d 1794-1865 |0 (DLC)nr 95036966 
+700 10 |a Ridolfi, Cosimo, |d 1794-1865 |0 (viaf)71625469 |0 
+          (uri)https://viaf.org/viaf/71625469 |9 Feb2015 
+

@@ -1,0 +1,14 @@
+00526xz   2200157n  4500
+001 fst00374806
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00374806 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Casey, Ralph D. |q (Ralph Droz), |d b. 1890 
+400 1_ |a Casey, Ralph Droz, |d 1890- 
+400 1_ |a Casey, Ralph Droz, |d b. 1890 
+700 17 |a Casey, Ralph D. |q (Ralph Droz), |d 1890- |w na |0 
+          (OCoLC)fst01811681 |2 fast 
+700 10 |a Casey, Ralph D. |q (Ralph Droz), |d b. 1890 |0 (DLC)no 96025649 
+

@@ -1,0 +1,16 @@
+00669cz   2200169n  4500
+001 fst00600946
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00600946 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Societáa italiana di storia della medicina 
+510 2_ |a Societáa italiana di storia delle scienze mediche e naturali |0 
+          (OCoLC)fst00600516 |w a 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Societáa italiana di storia della medicina |0 (DLC)n 85001254 
+710 20 |a Societáa italiana di storia della medicina |0 (viaf)127296347 |0 
+          (uri)https://viaf.org/viaf/127296347 |9 Feb2015 
+

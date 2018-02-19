@@ -1,0 +1,21 @@
+00930cz   2200241n  4500
+001 fst00423478
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00423478 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Råamireòdòdi, Råeònikuònòta, |d 1903-1948 
+400 0_ |a Råeònikuònòta Råamireòdòdi, |d 1903-1948 
+400 0_ |a Råeònikuònòta Råaòmreòdòdi, |d 1903-1948 
+400 1_ |a Råaòmreòdòdi, Råeònikuònòta, |d 1903-1948 
+400 0_ |a Cintalåapuri Råaòmreòdòdi, |d 1903-1948 
+400 1_ |a Råaòmreòdòdi, Cintalåapuri, |d 1903-1948 
+400 0_ |a Renikunta Ramireddy, |d 1903-1948 
+400 1_ |a Ramireddy, Renikunta, |d 1903-1948 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Råamireòdòdi, Råeònikuònòta, |d 1903-1948 |0 (DLC)no 98111036 
+700 10 |a Råamireòdòdi, Råeònikuònòta, |d 1903-1948 |0 (viaf)9468617 |0 
+          (uri)https://viaf.org/viaf/9468617 |9 Feb2015 
+

@@ -1,0 +1,16 @@
+00603xz   2200157n  4500
+001 fst00246656
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00246656 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Thompson, Henry William, |d b. 1786 
+400 0_ |a Author of Rambles with the British Army in Flanders and Holland, |d 
+          b. 1786 
+400 1_ |a Rambles with the British Army in Flanders and Holland, Author of, 
+       |d b. 1786 
+700 17 |a Thompson, Henry William, |d 1786- |w na |0 (OCoLC)fst01851017 |2 
+          fast 
+700 10 |a Thompson, Henry William, |d b. 1786 |0 (DLC)n 88225505 
+

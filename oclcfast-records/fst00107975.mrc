@@ -1,0 +1,17 @@
+00742xz   2200181n  4500
+001 fst00107975
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00107975 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Johann |b VIII, |c Bishop of Meissen, |d 1492 or 3-1549 
+400 0_ |a Johann |b VIII, |c Bp. of Meissen, |d b. 1492 
+400 0_ |a Johann von Maltitz, |c Bishop of Meissen, |d 1492 or 3-1549 
+400 1_ |a Maltitz, Johann von, |c Bishop of Meissen, |d 1492 or 3-1549 
+400 0_ |a Johann |b VIII, |c Bischof von Meissen, |d 1492 or 3-1549 
+700 07 |a Johann |b VIII, |c Bishop of Meissen, |d 1492 or 1493-1549 |w na |0 
+          (OCoLC)fst01827206 |2 fast 
+700 00 |a Johann |b VIII, |c Bishop of Meissen, |d 1492 or 3-1549 |0 (DLC)n 
+          83011488 
+

@@ -1,0 +1,15 @@
+00519cz   2200169n  4500
+001 fst00182962
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00182962 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Zacks, Samuel J. 
+400 1_ |a Zacks, Sam 
+688 __ |a LC (2016) Subject Usage: 3 
+688 __ |a WC (2016) Subject Usage: 33 
+700 10 |a Zacks, Samuel J. |0 (DLC)n 86128202 
+700 10 |a Zacks, Samuel J. |0 (viaf)50713675 |0 
+          (uri)https://viaf.org/viaf/50713675 |9 Feb2015 
+

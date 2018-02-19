@@ -1,0 +1,17 @@
+00609cz   2200181n  4500
+001 fst00357675
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00357675 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PJ5129.S414 
+100 0_ |a Shomer, |d 1849-1905 
+500 1_ |a Shayòkeòviòtsh, N. M. |q (Naòhum-Me®ir), |d 1849-1905 |0 
+          (OCoLC)fst00357676 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 00 |a Shomer, |d 1849-1905 |0 (DLC)n 95060911 
+700 00 |a Shomer, |d 1849-1905 |0 (viaf)4180540 |0 
+          (uri)https://viaf.org/viaf/4180540 |9 Feb2015 
+

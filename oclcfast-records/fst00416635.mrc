@@ -1,0 +1,14 @@
+00539cz   2200157n  4500
+001 fst00416635
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00416635 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Godbey, Allen Howard, |d 1864-1948 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Godbey, Allen Howard, |d 1864-1948 |0 (DLC)n 98038233 
+700 10 |a Godbey, Allen Howard, |d 1864-1948 |0 (viaf)48539778 |0 
+          (uri)https://viaf.org/viaf/48539778 |9 Feb2015 
+

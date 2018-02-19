@@ -1,0 +1,16 @@
+00556cz   2200193n  4500
+001 fst00291217
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00291217 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 3_ |a Longenecker family 
+400 3_ |a Longanecker family 
+400 3_ |a Longinecker family 
+400 3_ |a Longnaker family 
+500 3_ |a Longacre family |0 (OCoLC)fst00213953 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 27 
+700 30 |a Longenecker family |0 (DLC)sh 91003563 
+

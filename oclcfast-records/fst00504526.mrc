@@ -1,0 +1,16 @@
+00719xz   2200181n  4500
+001 fst00504526
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00504526 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Karbalåa®åi, Aòhmad, |d 1863 or 4-1904 or 5 
+400 1_ |a Karbalåa®åi, Sayyid Aòhmad, |d 1863 or 4-1904 or 5 
+400 1_ |a òTihråanåi Karbalåa®åi, Aòhmad, |d 1863 or 4-1904 or 5 
+400 1_ |a Karbalai Tehrani, Ahmad, |d 1863 or 4-1904 or 5 
+400 1_ |a Karbalai Tehrani, Sayyid Ahmad, |d 1863 or 4-1904 or 5 
+700 17 |a Karbalåa®åi, Aòhmad, |d 1863 or 1864-1904 or 1905 |w na |0 
+          (OCoLC)fst01827974 |2 fast 
+700 10 |a Karbalåa®åi, Aòhmad, |d 1863 or 4-1904 or 5 |0 (DLC)n 2004052446 
+

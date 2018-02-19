@@ -1,0 +1,15 @@
+00643cz   2200169n  4500
+001 fst00706247
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00706247 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a North American Federation of Temple Youth 
+510 2_ |a National Federation of Temple Youth |0 (OCoLC)fst00641251 |w a 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+710 20 |a North American Federation of Temple Youth |0 (DLC)n 95039686 
+710 20 |a North American Federation of Temple Youth |0 (viaf)124494992 |0 
+          (uri)https://viaf.org/viaf/124494992 |9 Feb2015 
+

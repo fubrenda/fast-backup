@@ -1,0 +1,13 @@
+00445xz   2200145n  4500
+001 fst00032060
+003 OCoLC
+005 20100126163523.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00032060 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PS3553.O4743 
+100 1_ |a Coleman, Marion Moore, |d 1900- 
+700 17 |a Coleman, Marion Moore, |d 1900-1993 |w na |0 (OCoLC)fst01728073 |2 
+          fast 
+700 10 |a Coleman, Marion Moore, |d 1900- |0 (DLC)n 79023093 
+

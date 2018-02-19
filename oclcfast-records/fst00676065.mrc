@@ -1,0 +1,17 @@
+00682cz   2200157n  4500
+001 fst00676065
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00676065 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Episcopal Church. |b Missionary District of South Dakota. |b 
+          Continuation Committee 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Episcopal Church. |b Missionary District of South Dakota. |b 
+          Continuation Committee |0 (DLC)n 92029608 
+710 20 |a Episcopal Church. |b Missionary District of South Dakota. |b 
+          Continuation Committee |0 (viaf)129147130 |0 
+          (uri)https://viaf.org/viaf/129147130 |9 Feb2015 
+

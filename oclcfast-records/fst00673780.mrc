@@ -1,0 +1,15 @@
+00592cz   2200157n  4500
+001 fst00673780
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00673780 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Queen Victoria Hospital (East Grinstead, England) 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+710 20 |a Queen Victoria Hospital (East Grinstead, England) |0 (DLC)n 
+          92001416 
+710 20 |a Queen Victoria Hospital (East Grinstead, England) |0 
+          (viaf)147887753 |0 (uri)https://viaf.org/viaf/147887753 |9 Feb2015 
+

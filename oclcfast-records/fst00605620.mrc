@@ -1,0 +1,14 @@
+00530cz   2200157n  4500
+001 fst00605620
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00605620 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Camera del lavoro di Piombino 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Camera del lavoro di Piombino |0 (DLC)n 85153640 
+710 20 |a Camera del lavoro di Piombino |0 (viaf)157171285 |0 
+          (uri)https://viaf.org/viaf/157171285 |9 Feb2015 
+

@@ -1,0 +1,13 @@
+00492xz   2200145n  4500
+001 fst00004773
+003 OCoLC
+005 20110726150104.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00004773 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Fusfeld, Daniel Roland, |d 1922- 
+400 1_ |a Fusfeld, Daniel R. |q (Daniel Roland), |d 1922- 
+700 17 |a Fusfeld, Daniel R. |q (Daniel Roland), |d 1922-2007 |w na |0 
+          (OCoLC)fst01759736 |2 fast 
+700 10 |a Fusfeld, Daniel Roland, |d 1922- |0 (DLC)n 50015382 
+

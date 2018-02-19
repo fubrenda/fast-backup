@@ -1,0 +1,13 @@
+00451xz   2200145n  4500
+001 fst00457404
+003 OCoLC
+005 20111122160238.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00457404 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Zhamsran, Zh. |q (Zhamëtìsyn) 
+400 1_ |a Zhamsran, Zhamëtìsyn 
+700 07 |a Zhamsran, Zh. |q (Zhamëtìsyn), |d 1923- |w na |0 (OCoLC)fst01774834 
+       |2 fast 
+700 10 |a Zhamsran, Zh. |q (Zhamëtìsyn) |0 (DLC)no 00103767 
+

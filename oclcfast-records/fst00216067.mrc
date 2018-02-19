@@ -1,0 +1,14 @@
+00448cz   2200169n  4500
+001 fst00216067
+003 OCoLC
+005 20080131204809.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00216067 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 3_ |a Sasser family 
+400 3_ |a Sass family 
+400 3_ |a Sasse family 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 11 
+700 30 |a Sasser family |0 (DLC)sh 85117621 
+

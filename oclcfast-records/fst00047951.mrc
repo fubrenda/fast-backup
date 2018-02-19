@@ -1,0 +1,19 @@
+00734cz   2200205n  4500
+001 fst00047951
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00047951 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 19240815 
+100 1_ |a Rubin, Vladimir Il§ich, |d 1924- 
+400 1_ |a Rubin, Vladimir, |d 1924- 
+400 1_ |a Rubin, V. |q (Vladimir), |d 1924- 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Rubin, Vladimir Il§ich, |d 1924- |0 (DLC)n 79150257 
+700 04 |a Vladimir Rubin |0 (uri)http://en.wikipedia.org/wiki/Vladimir_Rubin 
+       |9 Feb2015 
+700 10 |a Rubin, Vladimir Il§ich, |d 1924- |0 (viaf)28361570 |0 
+          (uri)https://viaf.org/viaf/28361570 |9 Feb2015 
+

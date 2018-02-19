@@ -1,0 +1,11 @@
+00380xz   2200133n  4500
+001 fst00016211
+003 OCoLC
+005 20120111153608.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00016211 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ross, Alf, |d 1899- 
+700 17 |a Ross, Alf, |d 1899-1979 |w na |0 (OCoLC)fst01775255 |2 fast 
+700 10 |a Ross, Alf, |d 1899- |0 (DLC)n 50047448 
+

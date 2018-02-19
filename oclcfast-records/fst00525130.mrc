@@ -1,0 +1,18 @@
+00754cz   2200181n  4500
+001 fst00525130
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00525130 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Quâebec (Province). |b Council on the Status of Women 
+410 1_ |a Quâebec (Province). |b Status of Women, Council on the 
+510 1_ |a Quâebec (Province). |b Conseil du statut de la femme |0 
+          (OCoLC)fst00525129 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 7 
+710 10 |a Quâebec (Province). |b Council on the Status of Women |0 (DLC)n 
+          78021973 
+710 10 |a Quâebec (Province). |b Council on the Status of Women |0 
+          (viaf)157021727 |0 (uri)https://viaf.org/viaf/157021727 |9 Feb2015 
+

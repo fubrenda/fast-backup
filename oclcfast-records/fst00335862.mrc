@@ -1,0 +1,15 @@
+00615cz   2200169n  4500
+001 fst00335862
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00335862 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Hunt, E. B. |q (Edward Bissell), |d 1822-1863 
+400 1_ |a Hunt, Edward Bissell, |d 1822-1863 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Hunt, E. B. |q (Edward Bissell), |d 1822-1863 |0 (DLC)nr 94005196 
+700 10 |a Hunt, E. B. |q (Edward Bissell), |d 1822-1863 |0 (viaf)44178233 |0 
+          (uri)https://viaf.org/viaf/44178233 |9 Feb2015 
+

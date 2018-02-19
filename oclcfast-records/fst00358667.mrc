@@ -1,0 +1,15 @@
+00546cz   2200169n  4500
+001 fst00358667
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00358667 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Yi, Chu-yæong, |d 1941- 
+400 1_ |a Rhee, Joo-Young, |d 1941- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Yi, Chu-yæong, |d 1941- |0 (DLC)nr 95023172 
+700 10 |a Yi, Chu-yæong, |d 1941- |0 (viaf)26954350 |0 
+          (uri)https://viaf.org/viaf/26954350 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00747cz   2200205n  4500
+001 fst00146564
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00146564 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Plot, Robert, |d 1640-1696 
+400 0_ |a R. P. |q (Robert Plot), |d 1640-1696 
+400 1_ |a P., R. |q (Robert Plot), |d 1640-1696 
+400 1_ |a Plot, |c Dr. |q (Robert), |d 1640-1696 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Plot, Robert, |d 1640-1696 |0 (DLC)n 84233166 
+700 04 |a Robert Plot |0 (uri)http://en.wikipedia.org/wiki/Robert_Plot |9 
+          Feb2015 
+700 10 |a Plot, Robert, |d 1640-1696 |0 (viaf)76658346 |0 
+          (uri)https://viaf.org/viaf/76658346 |9 Feb2015 
+

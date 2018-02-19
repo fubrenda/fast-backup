@@ -1,0 +1,15 @@
+00602cz   2200157n  4500
+001 fst00418251
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00418251 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Stoddard, Alexander J. |q (Alexander Jerry), |d 1889-1965 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Stoddard, Alexander J. |q (Alexander Jerry), |d 1889-1965 |0 (DLC)n 
+          98049113 
+700 10 |a Stoddard, Alexander J. |q (Alexander Jerry), |d 1889-1965 |0 
+          (viaf)75629554 |0 (uri)https://viaf.org/viaf/75629554 |9 Feb2015 
+

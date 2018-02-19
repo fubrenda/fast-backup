@@ -1,0 +1,18 @@
+00715cz   2200181n  4500
+001 fst00146888
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00146888 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Ampáere, Andrâe-Marie, |d 1775-1836 
+400 1_ |a Ampáere, A.-M. |q (Andrâe-Marie), |d 1775-1836 
+688 __ |a LC (2016) Subject Usage: 5 
+688 __ |a WC (2016) Subject Usage: 171 
+700 10 |a Ampáere, Andrâe-Marie, |d 1775-1836 |0 (DLC)n 85803043 
+700 04 |a Andrâe-Marie Ampáere |0 
+          (uri)http://en.wikipedia.org/wiki/Andre%CC%81-Marie_Ampe%CC%80re |9 
+          Feb2015 
+700 10 |a Ampáere, Andrâe-Marie, |d 1775-1836 |0 (viaf)41858701 |0 
+          (uri)https://viaf.org/viaf/41858701 |9 Feb2015 
+

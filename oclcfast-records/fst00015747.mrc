@@ -1,0 +1,13 @@
+00475xz   2200145n  4500
+001 fst00015747
+003 OCoLC
+005 20090330152002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00015747 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Urban, Wilbur Marshall, |d 1873- 
+400 1_ |a Urban, W. M. |q (Wilbur Marshall), |d 1873- 
+700 10 |a Urban, Wilbur Marshall, |d 1873- |0 (DLC)n 50045786 
+700 17 |a Urban, Wilbur Marshall, |d 1873-1952 |w na |0 (OCoLC)fst01716685 |2 
+          fast 
+

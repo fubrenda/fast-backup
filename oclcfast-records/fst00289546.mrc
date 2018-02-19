@@ -1,0 +1,14 @@
+00482cz   2200157n  4500
+001 fst00289546
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00289546 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a McHose, Caryn 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a McHose, Caryn |0 (DLC)n 91076080 
+700 10 |a McHose, Caryn |0 (viaf)21320448 |0 
+          (uri)https://viaf.org/viaf/21320448 |9 Feb2015 
+

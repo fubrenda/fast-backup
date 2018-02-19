@@ -1,0 +1,15 @@
+00584xz   2200181n  4500
+001 fst00325625
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00325625 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Frye, Walter, |d d. 1474 or 5 
+400 1_ |a Ffry, Walter, |d d. 1474 or 5 
+400 1_ |a Ffrye, Walter, |d d. 1474 or 5 
+400 1_ |a Frey, Walter, |d d. 1474 or 5 
+400 1_ |a Frie, Walter, |d d. 1474 or 5 
+700 17 |a Frye, Walter, |d -1474 or 1475 |w na |0 (OCoLC)fst01819479 |2 fast 
+700 10 |a Frye, Walter, |d d. 1474 or 5 |0 (DLC)nr 93027206 
+

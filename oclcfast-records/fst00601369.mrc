@@ -1,0 +1,16 @@
+00707cz   2200181n  4500
+001 fst00601369
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00601369 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Ardáeche (France). |b Archives dâepartementales 
+410 2_ |a Archives dâepartementales (Ardáeche, France) 
+410 2_ |a Archives dâepartementales de l'Ardáeche (France) 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 27 
+710 10 |a Ardáeche (France). |b Archives dâepartementales |0 (DLC)n 85042579 
+710 10 |a Ardáeche (France). |b Archives dâepartementales |0 (viaf)265361279 
+       |0 (uri)https://viaf.org/viaf/265361279 |9 Feb2015 
+

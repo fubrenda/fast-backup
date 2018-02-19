@@ -1,0 +1,17 @@
+00608cz   2200181n  4500
+001 fst00244226
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00244226 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PQ2603.E368 
+100 1_ |a Beck, Bâeatrix 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Beck, Bâeatrix |0 (DLC)nr 89001044 
+700 04 |a Bâeatrix Beck |0 
+          (uri)http://en.wikipedia.org/wiki/Be%CC%81atrix_Beck |9 Feb2015 
+700 10 |a Beck, Bâeatrix |0 (viaf)107581547 |0 
+          (uri)https://viaf.org/viaf/107581547 |9 Feb2015 
+

@@ -1,0 +1,14 @@
+00519xz   2200145n  4500
+001 fst00142180
+003 OCoLC
+005 20130111095856.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00142180 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a English, E. Schuyler |q (Eugene Schuyler), |d 1899- 
+400 1_ |a English, Eugene Schuyler, |d 1899- 
+700 17 |a English, E. Schuyler |q (Eugene Schuyler), |d 1899-1981 |w na |0 
+          (OCoLC)fst01800822 |2 fast 
+700 10 |a English, E. Schuyler |q (Eugene Schuyler), |d 1899- |0 (DLC)n 
+          84182189 
+

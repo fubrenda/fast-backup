@@ -1,0 +1,16 @@
+00670cz   2200169n  4500
+001 fst00667837
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00667837 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Conselho Superior de Instruðcäao Pâublica (Portugal) 
+410 1_ |a Portugal. |b Conselho Superior de Instruðcäao Pâublica 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Conselho Superior de Instruðcäao Pâublica (Portugal) |0 (DLC)n 
+          91054219 
+710 20 |a Conselho Superior de Instruðcäao Pâublica (Portugal) |0 
+          (viaf)138511953 |0 (uri)https://viaf.org/viaf/138511953 |9 Feb2015 
+

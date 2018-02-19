@@ -1,0 +1,24 @@
+00974cz   2200253n  4500
+001 fst00283109
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00283109 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 17970725 |g 18561104 
+100 1_ |a Hentz, Nicholas Marcellus, |d 1797-1856 
+370 __ |c France |c United States |2 naf 
+373 __ |a University of North Carolina (1793-1962) |2 naf 
+374 __ |a Educators |a College teachers |a Arachnologists |2 lcsh 
+375 __ |a male 
+377 __ |a eng 
+400 1_ |a Hentz, N. M. |q (Nicholas Marcellus), |d 1797-1856 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Hentz, Nicholas Marcellus, |d 1797-1856 |0 (DLC)nr 91008276 
+700 04 |a Nicholas Marcellus Hentz |0 
+          (uri)http://en.wikipedia.org/wiki/Nicholas_Marcellus_Hentz |9 
+          Feb2015 
+700 10 |a Hentz, Nicholas Marcellus, |d 1797-1856 |0 (viaf)47144875 |0 
+          (uri)https://viaf.org/viaf/47144875 |9 Feb2015 
+

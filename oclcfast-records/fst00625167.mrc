@@ -1,0 +1,14 @@
+00569cz   2200157n  4500
+001 fst00625167
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00625167 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Parthenon (Art museum : Nashville, Tenn.) 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 13 
+710 20 |a Parthenon (Art museum : Nashville, Tenn.) |0 (DLC)n 87103326 
+710 20 |a Parthenon (Art museum : Nashville, Tenn.) |0 (viaf)154861570 |0 
+          (uri)https://viaf.org/viaf/154861570 |9 Feb2015 
+

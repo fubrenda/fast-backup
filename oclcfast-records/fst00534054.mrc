@@ -1,0 +1,20 @@
+00825cz   2200181n  4500
+001 fst00534054
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00534054 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Northern Arizona University. |b Library. |b Special Collections 
+          Division 
+510 2_ |a Cline Library. |b Special Collections and Archives Department |0 
+          (OCoLC)fst01812931 |w b 
+510 2_ |a Northern Arizona University. |b Library |0 (OCoLC)fst00534055 |w b 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+710 20 |a Northern Arizona University. |b Library. |b Special Collections 
+          Division |0 (DLC)n 79066966 
+710 20 |a Northern Arizona University. |b Library. |b Special Collections 
+          Division |0 (viaf)125477922 |0 (uri)https://viaf.org/viaf/125477922 
+       |9 Feb2015 
+

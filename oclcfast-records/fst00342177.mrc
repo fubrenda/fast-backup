@@ -1,0 +1,15 @@
+00586cz   2200169n  4500
+001 fst00342177
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00342177 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Manakåes, Giannakåes, |d 1878-1954 
+400 1_ |a Manakåes, Giannåes, |d 1878-1954 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 10 |a Manakåes, Giannakåes, |d 1878-1954 |0 (DLC)nr 94023031 
+700 10 |a Manakåes, Giannakåes, |d 1878-1954 |0 (viaf)32804322 |0 
+          (uri)https://viaf.org/viaf/32804322 |9 Feb2015 
+

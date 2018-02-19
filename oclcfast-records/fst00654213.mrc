@@ -1,0 +1,17 @@
+00700cz   2200193n  4500
+001 fst00654213
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00654213 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Pennsylvania Coal Company 
+510 2_ |a Washington Coal Company |0 (OCoLC)fst00654212 
+510 2_ |a Erie Railroad Company |0 (OCoLC)fst00625047 
+510 2_ |a Wyoming Coal Association |0 (OCoLC)fst00792302 
+688 __ |a LC (2016) Subject Usage: 6 
+688 __ |a WC (2016) Subject Usage: 49 
+710 20 |a Pennsylvania Coal Company |0 (DLC)n 89103849 
+710 20 |a Pennsylvania Coal Company |0 (viaf)144367043 |0 
+          (uri)https://viaf.org/viaf/144367043 |9 Feb2015 
+

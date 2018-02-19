@@ -1,0 +1,17 @@
+00645cz   2200181n  4500
+001 fst00479818
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00479818 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Carle, Pontus, |d 1955- 
+400 1_ |a Herrstrom, Pontus Carl Einar, |d 1955- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Carle, Pontus, |d 1955- |0 (DLC)no2002051748 
+700 04 |a Pontus Carle |0 (uri)http://en.wikipedia.org/wiki/Pontus_Carle |9 
+          Feb2015 
+700 10 |a Carle, Pontus, |d 1955- |0 (viaf)52491525 |0 
+          (uri)https://viaf.org/viaf/52491525 |9 Feb2015 
+

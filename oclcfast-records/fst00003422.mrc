@@ -1,0 +1,20 @@
+00786cz   2200193n  4500
+001 fst00003422
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00003422 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PS3537.T836 
+100 1_ |a Stribling, T. S. |q (Thomas Sigismund), |d 1881-1965 
+400 1_ |a Stribling, Thomas Sigismund, |d 1881-1965 
+688 __ |a LC (2016) Subject Usage: 4 
+688 __ |a WC (2016) Subject Usage: 39 
+700 10 |a Stribling, T. S. |q (Thomas Sigismund), |d 1881-1965 |0 (DLC)n 
+          50011482 
+700 04 |a Thomas Sigismund Stribling |0 
+          (uri)http://en.wikipedia.org/wiki/Thomas_Sigismund_Stribling |9 
+          Feb2015 
+700 10 |a Stribling, T. S. |q (Thomas Sigismund), |d 1881-1965 |0 
+          (viaf)77114256 |0 (uri)https://viaf.org/viaf/77114256 |9 Feb2015 
+

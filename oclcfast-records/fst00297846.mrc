@@ -1,0 +1,15 @@
+00575xz   2200157n  4500
+001 fst00297846
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00297846 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PJ7760.B38 
+100 1_ |a Båa°åunåiyah, °åA®ishah bint Yåusuf, |d d. 1516 or 17 
+400 0_ |a °åA®ishah bint Yåusuf al-Båa°åunåiyah, |d d. 1516 or 17 
+700 17 |a Båa°åunåiyah, °åA®ishah bint Yåusuf, |d -1516 or 1517 |w na |0 
+          (OCoLC)fst01807102 |2 fast 
+700 10 |a Båa°åunåiyah, °åA®ishah bint Yåusuf, |d d. 1516 or 17 |0 (DLC)nr 
+          92001781 
+

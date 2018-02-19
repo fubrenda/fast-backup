@@ -1,0 +1,16 @@
+00640cz   2200181n  4500
+001 fst00378260
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00378260 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1789 |g 1865 
+100 1_ |a Whitridge, Joshua Barker, |d 1789-1865 
+400 1_ |a Whitridge, J. B. |q (Joshua Barker), |d 1789-1865 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 4 
+700 10 |a Whitridge, Joshua Barker, |d 1789-1865 |0 (DLC)nr 96024850 
+700 10 |a Whitridge, Joshua Barker, |d 1789-1865 |0 (viaf)54047621 |0 
+          (uri)https://viaf.org/viaf/54047621 |9 Feb2015 
+

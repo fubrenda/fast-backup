@@ -1,0 +1,20 @@
+00733cz   2200205n  4500
+001 fst00367360
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00367360 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Lâopez, Isidro, |d 1929- 
+400 1_ |a Lâopez, Javier Isidro, |d 1929- 
+400 0_ |a El Indio, |d 1929- 
+400 0_ |a Indio, |d 1929- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Lâopez, Isidro, |d 1929- |0 (DLC)no 96000878 
+700 04 |a Isidro Lâopez (musician) |0 
+          (uri)http://en.wikipedia.org/wiki/Isidro_Lo%CC%81pez_(musician) |9 
+          Feb2015 
+700 10 |a Lâopez, Isidro, |d 1929- |0 (viaf)36506121 |0 
+          (uri)https://viaf.org/viaf/36506121 |9 Feb2015 
+

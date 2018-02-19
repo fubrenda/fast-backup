@@ -1,0 +1,26 @@
+01163cz   2200229n  4500
+001 fst00618418
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00618418 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Generic Mineral Technology Center for Respirable Dust 
+410 2_ |a Pennsylvania State University. |b Generic Mineral Technology Center 
+          for Respirable Dust 
+410 2_ |a Pennsylvania State University. |b Generic Technology Center for 
+          Respirable Dust 
+410 2_ |a Massachusetts Institute of Technology. |b Generic Mineral 
+          Technology Center for Respirable Dust 
+410 2_ |a University of Minnesota. |b Generic Mineral Technology Center for 
+          Respirable Dust 
+410 2_ |a West Virginia University. |b Generic Mineral Technology Center for 
+          Respirable Dust 
+410 2_ |a Generic Technology Center for Respirable Dust 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 8 
+710 20 |a Generic Mineral Technology Center for Respirable Dust |0 (DLC)n 
+          86138719 
+710 20 |a Generic Mineral Technology Center for Respirable Dust |0 
+          (viaf)127493006 |0 (uri)https://viaf.org/viaf/127493006 |9 Feb2015 
+

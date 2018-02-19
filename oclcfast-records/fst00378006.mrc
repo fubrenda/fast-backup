@@ -1,0 +1,13 @@
+00494xz   2200157n  4500
+001 fst00378006
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00378006 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Morice, |d fl. 1850-1880 
+400 1_ |a Morice, A. |q (Albert), |d fl. 1850-1880 
+400 1_ |a Morice, Albert, |d fl. 1850-1880 
+700 17 |a Morice, |d active 1850-1880 |w na |0 (OCoLC)fst01835982 |2 fast 
+700 10 |a Morice, |d fl. 1850-1880 |0 (DLC)n 89265303 
+

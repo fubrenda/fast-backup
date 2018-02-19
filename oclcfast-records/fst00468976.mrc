@@ -1,0 +1,17 @@
+00650cz   2200193n  4500
+001 fst00468976
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00468976 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Akalåujakara, Sarasvatåibåaåi 
+400 0_ |a Sarasvatåibåaåi Akalåujakara 
+400 0_ |a Saraswatibai Aklujkar 
+400 1_ |a Aklujkar, Saraswatibai 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Akalåujakara, Sarasvatåibåaåi |0 (DLC)no2001077437 
+700 10 |a Akalåujakara, Sarasvatåibåaåi |0 (viaf)2121711 |0 
+          (uri)https://viaf.org/viaf/2121711 |9 Feb2015 
+

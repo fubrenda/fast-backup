@@ -1,0 +1,15 @@
+00617cz   2200169n  4500
+001 fst00329369
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00329369 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Brajtberg-Fajnzylber, Fâela, |d 1912-1977 
+400 1_ |a Fajnzylber, Fâela Brajtberg-, |d 1912-1977 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Brajtberg-Fajnzylber, Fâela, |d 1912-1977 |0 (DLC)n 93096166 
+700 10 |a Brajtberg-Fajnzylber, Fâela, |d 1912-1977 |0 (viaf)68979838 |0 
+          (uri)https://viaf.org/viaf/68979838 |9 Feb2015 
+

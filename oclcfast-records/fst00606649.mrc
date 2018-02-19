@@ -1,0 +1,17 @@
+00672cz   2200181n  4500
+001 fst00606649
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00606649 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a United States. |b Army. |b New Jersey Brigade, 2nd 
+410 2_ |a New Jersey Brigade, 2nd 
+410 2_ |a New Jersey Volunteers, 2nd Brigade 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+710 10 |a United States. |b Army. |b New Jersey Brigade, 2nd |0 (DLC)n 
+          85160955 
+710 10 |a United States. |b Army. |b New Jersey Brigade, 2nd |0 
+          (viaf)158342206 |0 (uri)https://viaf.org/viaf/158342206 |9 Feb2015 
+

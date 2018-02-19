@@ -1,0 +1,11 @@
+00415xz   2200133n  4500
+001 fst00484737
+003 OCoLC
+005 20100126163523.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00484737 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Waters, John, |d b. ca. 1648-1704 
+700 17 |a Waters, John, |d ca. 1648-1704 |w na |0 (OCoLC)fst01733932 |2 fast 
+700 10 |a Waters, John, |d b. ca. 1648-1704 |0 (DLC)n 2002044569 
+

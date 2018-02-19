@@ -1,0 +1,16 @@
+00600cz   2200181n  4500
+001 fst00120661
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00120661 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Santos, Alfredo G. de los 
+400 1_ |a De los Santos, Alfredo G. 
+400 1_ |a Los Santos, Alfredo G. de 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Santos, Alfredo G. de los |0 (DLC)n 83209769 
+700 10 |a Santos, Alfredo G. de los |0 (viaf)23525167 |0 
+          (uri)https://viaf.org/viaf/23525167 |9 Feb2015 
+

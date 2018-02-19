@@ -1,0 +1,17 @@
+00706cz   2200193n  4500
+001 fst00090257
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00090257 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Terrera, Guillermo Alfredo, |d 1922- 
+400 1_ |a Terrera, Guillermo A. |q (Guillermo Alfredo), |d 1922- 
+400 1_ |a Terrera, Guillermo, |d 1922- 
+400 1_ |a Terrero, Guillermo Alfredo, |d 1922- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 7 
+700 10 |a Terrera, Guillermo Alfredo, |d 1922- |0 (DLC)n 82048708 
+700 10 |a Terrera, Guillermo Alfredo, |d 1922- |0 (viaf)45642128 |0 
+          (uri)https://viaf.org/viaf/45642128 |9 Feb2015 
+

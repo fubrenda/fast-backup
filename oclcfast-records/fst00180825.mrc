@@ -1,0 +1,17 @@
+00668cz   2200181n  4500
+001 fst00180825
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00180825 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Khuëtìsiev, Marlen, |d 1925- 
+400 1_ |a Khuëtìsiev, Marlen Martynovich, |d 1925- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Khuëtìsiev, Marlen, |d 1925- |0 (DLC)n 85166156 
+700 04 |a Marlen Khutsiev |0 
+          (uri)http://en.wikipedia.org/wiki/Marlen_Khutsiev |9 Feb2015 
+700 10 |a Khuëtìsiev, Marlen, |d 1925- |0 (viaf)43278246 |0 
+          (uri)https://viaf.org/viaf/43278246 |9 Feb2015 
+

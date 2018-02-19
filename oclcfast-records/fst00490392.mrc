@@ -1,0 +1,20 @@
+00721cz   2200229n  4500
+001 fst00490392
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00490392 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Rossner, Judith, |d 1935-2005 
+370 __ |a New York (N.Y.) |b New York (N.Y.) |2 naf 
+374 __ |a Novelists |2 lcsh 
+375 __ |a female 
+377 __ |a eng 
+400 1_ |a Perelman, Judith, |d 1935-2005 
+400 1_ |a Rossner, Judith |w nne 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 8 
+700 10 |a Rossner, Judith, |d 1935-2005 |0 (DLC)n 50049730 
+700 10 |a Rossner, Judith |0 (viaf)19058947 |0 
+          (uri)https://viaf.org/viaf/19058947 |9 Feb2015 
+

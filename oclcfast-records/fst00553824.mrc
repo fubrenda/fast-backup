@@ -1,0 +1,17 @@
+00710cz   2200181n  4500
+001 fst00553824
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00553824 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Columbia University. |b School of Business 
+510 2_ |a Columbia University. |b Graduate School of Business |0 
+          (OCoLC)fst00553823 |w b 
+510 2_ |a Columbia University |0 (OCoLC)fst00554594 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 8 
+710 20 |a Columbia University. |b School of Business |0 (DLC)n 81013494 
+710 20 |a Columbia University. |b School of Business |0 (viaf)140039483 |0 
+          (uri)https://viaf.org/viaf/140039483 |9 Feb2015 
+

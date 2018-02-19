@@ -1,0 +1,15 @@
+00549cz   2200169n  4500
+001 fst00446968
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00446968 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Somnit Vankham, |d 1937- 
+400 1_ |a Vankham, Somnit, |d 1937- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 3 
+700 00 |a Somnit Vankham, |d 1937- |0 (DLC)nr 00013699 
+700 00 |a Somnit Vankham, |d 1937- |0 (viaf)53986425 |0 
+          (uri)https://viaf.org/viaf/53986425 |9 Feb2015 
+

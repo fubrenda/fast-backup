@@ -1,0 +1,17 @@
+00661cz   2200193n  4500
+001 fst00639920
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00639920 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Croatia. |b Ustavni sud 
+410 1_ |a Croatia. |b Constitutional Court 
+410 1_ |a Croatia (Federated Republic, 1945- ). |b Ustavni sud 
+410 1_ |a Croatia. |b Sud, Ustavni 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 3 
+710 10 |a Croatia. |b Ustavni sud |0 (DLC)n 87849268 
+710 10 |a Croatia. |b Ustavni sud |0 (viaf)126763860 |0 
+          (uri)https://viaf.org/viaf/126763860 |9 Feb2015 
+

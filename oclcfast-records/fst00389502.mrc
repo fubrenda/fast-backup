@@ -1,0 +1,13 @@
+00440xz   2200145n  4500
+001 fst00389502
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00389502 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PA8552.M487 
+100 1_ |a Moggi, Moggio, |d 14th cent. 
+700 17 |a Moggi, Moggio, |d active 14th century |w na |0 (OCoLC)fst01835463 
+       |2 fast 
+700 10 |a Moggi, Moggio, |d 14th cent. |0 (DLC)nr 97011387 
+

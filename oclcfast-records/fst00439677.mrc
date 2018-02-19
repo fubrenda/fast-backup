@@ -1,0 +1,19 @@
+00751cz   2200205n  4500
+001 fst00439677
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00439677 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Cåakåi, Praphulla, |d 1888-1908 
+400 0_ |a Praphulla Cåakåi |d 1888-1908 
+400 0_ |a Prafulla Chaki, |d 1888-1908 
+400 1_ |a Chaki, Prafulla, |d 1888-1908 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Cåakåi, Praphulla, |d 1888-1908 |0 (DLC)no 99076519 
+700 04 |a Prafulla Chaki |0 (uri)http://en.wikipedia.org/wiki/Prafulla_Chaki 
+       |9 Feb2015 
+700 10 |a Cåakåi, Praphulla, |d 1888-1908 |0 (viaf)16863615 |0 
+          (uri)https://viaf.org/viaf/16863615 |9 Feb2015 
+

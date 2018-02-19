@@ -1,0 +1,20 @@
+00894cz   2200229n  4500
+001 fst00064997
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00064997 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Pedro |b IV, |c King of Aragon, |d 1319?-1387 
+400 0_ |a Pedro |b III, |c King of Catalonia, |d 1319?-1387 
+400 0_ |a Pedro |b II, |c King of Valencia, |d 1319?-1387 
+400 0_ |a Pere |b III, |c King of Catalonia, |d 1319?-1387 
+400 0_ |a Pere, |c el Cerimoniâos, |d 1319?-1387 
+400 0_ |a Pedro, |c el Ceremonioso, |d 1319?-1387 
+400 0_ |a Pietro |b IV, |c d'Aragona, |d 1319?-1387 
+688 __ |a LC (2016) Subject Usage: 10 
+688 __ |a WC (2016) Subject Usage: 86 
+700 00 |a Pedro |b IV, |c King of Aragon, |d 1319?-1387 |0 (DLC)n 80158714 
+700 00 |a Pedro |b IV, |c King of Aragon, |d 1319?-1387 |0 (viaf)24610900 |0 
+          (uri)https://viaf.org/viaf/24610900 |9 Feb2015 
+

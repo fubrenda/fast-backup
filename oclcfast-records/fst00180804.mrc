@@ -1,0 +1,17 @@
+00671cz   2200181n  4500
+001 fst00180804
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00180804 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Machray, Robert, |d 1831-1904 
+400 1_ |a Rupert's Land, R. |q (Robert), |d 1831-1904 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 14 
+700 10 |a Machray, Robert, |d 1831-1904 |0 (DLC)n 85116404 
+700 04 |a Robert Machray |0 (uri)http://en.wikipedia.org/wiki/Robert_Machray 
+       |9 Feb2015 
+700 10 |a Machray, Robert, |d 1831-1904 |0 (viaf)55581018 |0 
+          (uri)https://viaf.org/viaf/55581018 |9 Feb2015 
+

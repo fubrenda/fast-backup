@@ -1,0 +1,19 @@
+00693cz   2200205n  4500
+001 fst00101526
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00101526 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Red§kin, Mark 
+400 1_ |a Red§kin, Mark Stepanovich 
+400 1_ |a Red§kin, M. |q (Mark) 
+400 1_ |a Red§kin, M. S. |q (Mark Stepanovich) 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Red§kin, Mark |0 (DLC)n 82148157 
+700 04 |a Mark Redkin |0 (uri)http://en.wikipedia.org/wiki/Mark_Redkin |9 
+          Feb2015 
+700 10 |a Red§kin, Mark |0 (viaf)52287110 |0 
+          (uri)https://viaf.org/viaf/52287110 |9 Feb2015 
+

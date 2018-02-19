@@ -1,0 +1,15 @@
+00578cz   2200169n  4500
+001 fst00444481
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00444481 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Selassie, Brahana, |d 1955- 
+400 1_ |a Briggs-Romain, Danford Elmo Anthony, |d 1955- 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Selassie, Brahana, |d 1955- |0 (DLC)nb 99114826 
+700 10 |a Selassie, Brahana, |d 1955- |0 (viaf)53648630 |0 
+          (uri)https://viaf.org/viaf/53648630 |9 Feb2015 
+

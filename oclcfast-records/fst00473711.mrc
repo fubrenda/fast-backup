@@ -1,0 +1,15 @@
+00590xz   2200169n  4500
+001 fst00473711
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00473711 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Cacho de Villegas, Alejandro, |d b. 1681 
+400 1_ |a De Villegas, Alejandro Cacho, |d b. 1681 
+400 1_ |a Villegas, Alejandro Cacho de, |d b. 1681 
+400 1_ |a Cacho, Alejandro, |d b. 1681 
+700 17 |a Cacho de Villegas, Alejandro, |d 1681- |w na |0 (OCoLC)fst01810693 
+       |2 fast 
+700 10 |a Cacho de Villegas, Alejandro, |d b. 1681 |0 (DLC)n 2002093530 
+

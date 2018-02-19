@@ -1,0 +1,15 @@
+00504cz   2200169n  4500
+001 fst00465256
+003 OCoLC
+005 20161010154854.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00465256 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PJ5055.15.E476 
+100 1_ |a Behr, Alan 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Behr, Alan |0 (DLC)n 2001002119 
+700 10 |a Behr, Alan |0 (viaf)16565799 |0 (uri)https://viaf.org/viaf/16565799 
+       |9 Feb2015 
+

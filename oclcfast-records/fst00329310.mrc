@@ -1,0 +1,14 @@
+00532xz   2200169n  4500
+001 fst00329310
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00329310 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Homobonus, |c Saint, |d d. 1197 
+400 0_ |a Homobono, |c San, |d d. 1197 
+400 0_ |a Huomobuono, |c Santo, |d d. 1197 
+400 0_ |a Omobono, |c Santo, |d d. 1197 
+700 07 |a Homobonus, |c Saint, |d -1197 |w na |0 (OCoLC)fst01824407 |2 fast 
+700 00 |a Homobonus, |c Saint, |d d. 1197 |0 (DLC)nr 93036917 
+

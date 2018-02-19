@@ -1,0 +1,21 @@
+00890cz   2200229n  4500
+001 fst00113914
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00113914 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Laney, Benjamin, |d 1591-1675 
+400 0_ |a Benjamin, |c Bishop of Ely, |d 1591-1675 
+400 1_ |a Lany, Benjamin, |d 1591-1675 
+400 0_ |a B., |c Lord Bishop of Ely, |d 1591-1675 
+400 0_ |a Learned prelate of the Church of England, |d 1591-1675 
+400 0_ |a B., |c Lord Bishop of Peterborough, |d 1591-1675 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Laney, Benjamin, |d 1591-1675 |0 (DLC)n 83124561 
+700 04 |a Benjamin Lany |0 (uri)http://en.wikipedia.org/wiki/Benjamin_Lany |9 
+          Feb2015 
+700 10 |a Laney, Benjamin, |d 1591-1675 |0 (viaf)54494609 |0 
+          (uri)https://viaf.org/viaf/54494609 |9 Feb2015 
+

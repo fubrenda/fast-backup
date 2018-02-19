@@ -1,0 +1,14 @@
+00481cz   2200157n  4500
+001 fst00678230
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00678230 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Denki Gakkåo 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Denki Gakkåo |0 (DLC)nr 92019274 
+710 20 |a Denki Gakkåo |0 (viaf)257498378 |0 
+          (uri)https://viaf.org/viaf/257498378 |9 Feb2015 
+

@@ -1,0 +1,16 @@
+00604cz   2200169n  4500
+001 fst00419850
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00419850 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Lamont, James, |d 1828-1913 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Lamont, James, |d 1828-1913 |0 (DLC)nr 98024695 
+700 04 |a James Lamont |0 (uri)http://en.wikipedia.org/wiki/James_Lamont |9 
+          Feb2015 
+700 10 |a Lamont, James, |d 1828-1913 |0 (viaf)71305594 |0 
+          (uri)https://viaf.org/viaf/71305594 |9 Feb2015 
+

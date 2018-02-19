@@ -1,0 +1,13 @@
+00519xz   2200133n  4500
+001 fst00613842
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00613842 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Oklahoma. |b State Dept. of Agriculture. |b Plant Industry Division 
+710 17 |a Oklahoma. |b State Department of Agriculture. |b Plant Industry 
+          Division |w na |0 (OCoLC)fst01839172 |2 fast 
+710 10 |a Oklahoma. |b State Dept. of Agriculture. |b Plant Industry Division 
+       |0 (DLC)n 85021826 
+

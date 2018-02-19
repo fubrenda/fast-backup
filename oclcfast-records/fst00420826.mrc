@@ -1,0 +1,15 @@
+00617cz   2200169n  4500
+001 fst00420826
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00420826 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Baldynov, Il§ëiìa Vasil§evich, |d 1903- 
+400 1_ |a Baldynov, I. V. |q (Il§ëiìa Vasil§evich), |d 1903- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Baldynov, Il§ëiìa Vasil§evich, |d 1903- |0 (DLC)n 98066991 
+700 10 |a Baldynov, Il§ëiìa Vasil§evich, |d 1903- |0 (viaf)28849160 |0 
+          (uri)https://viaf.org/viaf/28849160 |9 Feb2015 
+

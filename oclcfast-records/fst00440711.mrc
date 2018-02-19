@@ -1,0 +1,14 @@
+00524cz   2200157n  4500
+001 fst00440711
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00440711 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Caldevilla, Alfredo, |d 1918- 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Caldevilla, Alfredo, |d 1918- |0 (DLC)n 99262114 
+700 10 |a Caldevilla, Alfredo, |d 1918- |0 (viaf)73190141 |0 
+          (uri)https://viaf.org/viaf/73190141 |9 Feb2015 
+

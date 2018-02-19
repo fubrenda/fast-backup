@@ -1,0 +1,14 @@
+00480cz   2200157n  4500
+001 fst00495281
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00495281 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Wright, Obed 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 17 
+700 10 |a Wright, Obed |0 (DLC)nr2003019192 
+700 10 |a Wright, Obed |0 (viaf)73798141 |0 
+          (uri)https://viaf.org/viaf/73798141 |9 Feb2015 
+

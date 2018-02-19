@@ -1,0 +1,14 @@
+00506xz   2200157n  4500
+001 fst00411814
+003 OCoLC
+005 20111122160238.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00411814 |z fst01433441 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Williams, Margaret, |d 1914- 
+400 1_ |a Williams, Margaret Vyner |w nne 
+400 1_ |a Vyner, Margaret, |d 1914- 
+700 17 |a Williams, Margaret, |d 1914-1993 |w na |0 (OCoLC)fst01774819 |2 
+          fast 
+700 10 |a Williams, Margaret, |d 1914- |0 (DLC)n 98007030 
+

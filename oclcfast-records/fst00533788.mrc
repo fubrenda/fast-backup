@@ -1,0 +1,15 @@
+00616xz   2200169n  4500
+001 fst00533788
+003 OCoLC
+005 20130415152037.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00533788 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a New Zealand. |b Dept. of Trade and Industry 
+410 1_ |a New Zealand. |b Trade and Industry, Dept. of 
+410 1_ |a New Zealand. |b Dept. of Trade & Industry 
+551 __ |a New Zealand |0 (OCoLC)fst01204542 
+710 17 |a New Zealand. |b Department of Trade and Industry |w na |0 
+          (OCoLC)fst01837821 |2 fast 
+710 10 |a New Zealand. |b Dept. of Trade and Industry |0 (DLC)n 79065304 
+

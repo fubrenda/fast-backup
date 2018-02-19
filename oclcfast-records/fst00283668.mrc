@@ -1,0 +1,15 @@
+00512cz   2200169n  4500
+001 fst00283668
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00283668 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Taarji, Hinde 
+400 1_ |a òTarjåi, Hind 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+700 10 |a Taarji, Hinde |0 (DLC)n 91026107 
+700 10 |a Taarji, Hinde |0 (viaf)71434958 |0 
+          (uri)https://viaf.org/viaf/71434958 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00736cz   2200205n  4500
+001 fst00032521
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00032521 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PA5610.K237 
+100 1_ |a Kalligas, Paulos, |d 1814-1896 
+400 1_ |a Calligas, Paul, |d 1814-1896 
+400 1_ |a Kalligas, Pavlos, |d 1814-1896 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 11 
+700 10 |a Kalligas, Paulos, |d 1814-1896 |0 (DLC)n 79027803 
+700 04 |a Pavlos Kalligas |0 
+          (uri)http://en.wikipedia.org/wiki/Pavlos_Kalligas |9 Feb2015 
+700 10 |a Kalligas, Paulos, |d 1814-1896 |0 (viaf)27179855 |0 
+          (uri)https://viaf.org/viaf/27179855 |9 Feb2015 
+

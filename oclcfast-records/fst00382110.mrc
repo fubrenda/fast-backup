@@ -1,0 +1,19 @@
+00812cz   2200193n  4500
+001 fst00382110
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00382110 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Baker, Shirley W. |q (Shirley Waldemar), |d 1836-1903 
+400 1_ |a Baker, Shirley Waldemar, |d 1836-1903 
+400 1_ |a Baker, Shirley |q (Shirley Waldemar), |d 1836-1903 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 26 
+700 10 |a Baker, Shirley W. |q (Shirley Waldemar), |d 1836-1903 |0 (DLC)no 
+          96054487 
+700 04 |a Shirley Waldemar Baker |0 
+          (uri)http://en.wikipedia.org/wiki/Shirley_Waldemar_Baker |9 Feb2015 
+700 10 |a Baker, Shirley W. |q (Shirley Waldemar), |d 1836-1903 |0 
+          (viaf)24196710 |0 (uri)https://viaf.org/viaf/24196710 |9 Feb2015 
+

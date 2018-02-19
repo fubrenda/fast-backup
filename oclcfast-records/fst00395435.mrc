@@ -1,0 +1,18 @@
+00725cz   2200193n  4500
+001 fst00395435
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00395435 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 1319 |g 1364 
+100 0_ |a Charles, |c of Blois, Duke of Brittany, |d 1319-1364 
+400 0_ |a Charles, |c de Blois, Duke of Brittany, |d 1319-1364 
+400 1_ |a Blois, Charles de, |d 1319-1364 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 9 
+700 00 |a Charles, |c of Blois, Duke of Brittany, |d 1319-1364 |0 (DLC)nr 
+          97026991 
+700 00 |a Charles, |c of Blois, Duke of Brittany, |d 1319-1364 |0 
+          (viaf)54258580 |0 (uri)https://viaf.org/viaf/54258580 |9 Feb2015 
+

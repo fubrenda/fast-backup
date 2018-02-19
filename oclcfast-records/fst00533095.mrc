@@ -1,0 +1,19 @@
+00735cz   2200217n  4500
+001 fst00533095
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00533095 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Cincinnati Art Museum 
+368 __ |a Art museums |2 lcsh 
+370 __ |e Cincinnati (Ohio) |2 naf 
+410 2_ |a Cincinnati Museum 
+410 2_ |a Cincinnati Museum Association. |b Art Museum 
+410 1_ |a Cincinnati (Ohio). |b Art Museum 
+688 __ |a LC (2016) Subject Usage: 29 (30) 
+688 __ |a WC (2016) Subject Usage: 232 (234) 
+710 20 |a Cincinnati Art Museum |0 (DLC)n 79058412 
+710 20 |a Cincinnati Art Museum |0 (viaf)239984674 |0 
+          (uri)https://viaf.org/viaf/239984674 |9 Feb2015 
+

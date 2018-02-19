@@ -1,0 +1,22 @@
+00814cz   2200241n  4500
+001 fst00192758
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00192758 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Suso, Foday Musa 
+370 __ |a Gambia |c Gambia |c U.S. |e Chicago, Ill. |e Seattle, Wash. 
+374 __ |a Griots |a Composers |a Music teachers |2 lcsh 
+374 __ |a Kora player 
+375 __ |a male 
+400 1_ |a Suso, Musa 
+400 1_ |a Musa Suso, Foday 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 0 
+700 10 |a Suso, Foday Musa |0 (DLC)n 87803353 
+700 04 |a Foday Musa Suso |0 
+          (uri)http://en.wikipedia.org/wiki/Foday_Musa_Suso |9 Feb2015 
+700 10 |a Suso, Foday Musa |0 (viaf)10037295 |0 
+          (uri)https://viaf.org/viaf/10037295 |9 Feb2015 
+

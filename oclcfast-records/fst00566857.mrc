@@ -1,0 +1,24 @@
+01041cz   2200277n  4500
+001 fst00566857
+003 OCoLC
+005 20171208142050.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00566857 |z fst01976914 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Evangelical Lutheran Church in Tanzania 
+370 __ |c Tanzania |e Arusha (Tanzania) |2 naf 
+410 2_ |a E.L.C.T. 
+410 2_ |a ELCT 
+410 2_ |a Evangelical Lutheran Church of Tanzania |w nne 
+410 2_ |a Evangelisch-Lutherische Kirche in Tansania 
+410 2_ |a Evangelisch-Lutherische Kirche in Tanzania 
+410 2_ |a K.K.K.T. 
+410 2_ |a Kanisa la Kiinjili la Kilutheri Tanzania 
+410 2_ |a KKKT 
+510 2_ |a Evangelical Lutheran Church in Tanganyika |0 (OCoLC)fst00566856 
+688 __ |a LC (2016) Subject Usage: 5 (10) 
+688 __ |a WC (2016) Subject Usage: 41 (53) 
+710 20 |a Evangelical Lutheran Church in Tanzania |0 (DLC)n 82045283 
+710 20 |a Evangelical Lutheran Church in Tanzania |0 (viaf)127711871 |0 
+          (uri)https://viaf.org/viaf/127711871 |9 Feb2015 
+

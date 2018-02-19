@@ -1,0 +1,19 @@
+00824cz   2200205n  4500
+001 fst00608169
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00608169 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a Russia. |b Ministerstvo zemledëiìelåiëiìa 
+410 1_ |a Russia. |b Ministáere de l'agriculture 
+410 1_ |a Russia. |b Ministerstvo zemledeliëiìa 
+410 1_ |a Russia. |b Zemledëiìelåiëiìa, Ministerstvo 
+510 1_ |a Russia. |b Glavnoe upravlenåie zemleustroæistva i zemledëiìelåiëiìa 
+       |0 (OCoLC)fst00601466 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+710 10 |a Russia. |b Ministerstvo zemledëiìelåiëiìa |0 (DLC)n 85166380 
+710 10 |a Russia. |b Ministerstvo zemledëiìelåiëiìa |0 (viaf)156005788 |0 
+          (uri)https://viaf.org/viaf/156005788 |9 Feb2015 
+

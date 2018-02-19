@@ -1,0 +1,23 @@
+00903cz   2200241n  4500
+001 fst00011241
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00011241 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+046 __ |f 19040919 |g 19961012 
+100 1_ |a Miller, Frederick Walter Gascoyne 
+370 __ |a Hawke's Bay, N.Z. 
+374 __ |a Journalist |a Goldminer |a Historian |a Poet 
+375 __ |a male 
+377 __ |a eng 
+400 1_ |a Miller, F. W. G. |q (Frederick Walter Gascoyne) 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 5 
+700 10 |a Miller, Frederick Walter Gascoyne |0 (DLC)n 50033366 
+700 04 |a Fred Miller (New Zealand journalist) |0 
+          (uri)http://en.wikipedia.org/wiki/Fred_Miller_(New_Zealand_journalist) 
+       |9 Feb2015 
+700 10 |a Miller, Frederick Walter Gascoyne |0 (viaf)43081018 |0 
+          (uri)https://viaf.org/viaf/43081018 |9 Feb2015 
+

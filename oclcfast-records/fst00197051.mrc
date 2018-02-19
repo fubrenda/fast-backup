@@ -1,0 +1,24 @@
+00912cz   2200265n  4500
+001 fst00197051
+003 OCoLC
+005 20171208142050.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00197051 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Hèaring, Bernhard, |d 1912-1998 
+370 __ |c Germany |2 naf 
+373 __ |a Redemptorists |2 naf 
+374 __ |a Priests |2 lcsh 
+375 __ |a Males |2 lcsh 
+377 __ |a ger 
+400 1_ |a Hèaring, B. |q (Bernhard), |d 1912-1998 
+400 1_ |a Hèaring, Bernard, |d 1912-1998 
+400 1_ |a Hèaring, Bernhard, |d 1912- |w nne 
+688 __ |a LC (2016) Subject Usage: 7 
+688 __ |a WC (2016) Subject Usage: 54 
+700 10 |a Hèaring, Bernhard, |d 1912-1998 |0 (DLC)n 86020841 
+700 04 |a Bernhard Hèaring |0 
+          (uri)http://en.wikipedia.org/wiki/Bernhard_Ha%CC%88ring |9 Feb2015 
+700 10 |a Hèaring, Bernhard, |d 1912- |0 (viaf)108644490 |0 
+          (uri)https://viaf.org/viaf/108644490 |9 Feb2015 
+

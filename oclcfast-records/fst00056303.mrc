@@ -1,0 +1,20 @@
+00751cz   2200217n  4500
+001 fst00056303
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00056303 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Hurtado, Osvaldo 
+400 1_ |a Hurtado, Oswaldo 
+400 1_ |a Hurtado Larrea, Osvaldo 
+400 1_ |a Larrea, Osvaldo Hurtado 
+400 1_ |a Hurtado L., Osvaldo |q (Hurtado Larrea) 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 12 
+700 10 |a Hurtado, Osvaldo |0 (DLC)n 80073537 
+700 04 |a Osvaldo Hurtado |0 
+          (uri)http://en.wikipedia.org/wiki/Osvaldo_Hurtado |9 Feb2015 
+700 10 |a Hurtado, Osvaldo |0 (viaf)75151189 |0 
+          (uri)https://viaf.org/viaf/75151189 |9 Feb2015 
+

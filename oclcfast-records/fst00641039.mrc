@@ -1,0 +1,18 @@
+00723cz   2200169n  4500
+001 fst00641039
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00641039 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a New Jersey State Industrial Union Council. |b Constitutional 
+          Convention 
+410 2_ |a New Jersey State Industrial Union Council. |b Convention 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 2 
+710 20 |a New Jersey State Industrial Union Council. |b Constitutional 
+          Convention |0 (DLC)n 88027812 
+710 20 |a New Jersey State Industrial Union Council. |b Constitutional 
+          Convention |0 (viaf)139656229 |0 
+          (uri)https://viaf.org/viaf/139656229 |9 Feb2015 
+

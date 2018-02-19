@@ -1,0 +1,17 @@
+00762cz   2200193n  4500
+001 fst00557423
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00557423 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Nuclear Safety Information Center 
+410 1_ |a United States. |b Nuclear Safety Information Center 
+410 1_ |a Oak Ridge (Tenn.). |b Nuclear Safety Information Center 
+410 2_ |a Oak Ridge National Laboratory. |b Nuclear Safety Information Center 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+710 20 |a Nuclear Safety Information Center |0 (DLC)n 81062658 
+710 20 |a Nuclear Safety Information Center |0 (viaf)127530738 |0 
+          (uri)https://viaf.org/viaf/127530738 |9 Feb2015 
+

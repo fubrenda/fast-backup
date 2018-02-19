@@ -1,0 +1,21 @@
+00798cz   2200229n  4500
+001 fst00056482
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00056482 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PK2098.26.O35 
+100 1_ |a Kohli, Narendra, |d 1940- 
+400 0_ |a Narendra Kohli, |d 1940- 
+400 1_ |a Kohalåi, Narendra, |d 1940- 
+400 0_ |a Narendra Kohalåi, |d 1940- 
+400 1_ |a Kohli, Narender, |d 1940- 
+688 __ |a LC (2016) Subject Usage: 11 
+688 __ |a WC (2016) Subject Usage: 25 
+700 10 |a Kohli, Narendra, |d 1940- |0 (DLC)n 80076229 
+700 04 |a Narendra Kohli |0 (uri)http://en.wikipedia.org/wiki/Narendra_Kohli 
+       |9 Feb2015 
+700 10 |a Kohli, Narendra, |d 1940- |0 (viaf)116511798 |0 
+          (uri)https://viaf.org/viaf/116511798 |9 Feb2015 
+

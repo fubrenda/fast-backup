@@ -1,0 +1,13 @@
+00470xz   2200145n  4500
+001 fst00018189
+003 OCoLC
+005 20090330152002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00018189 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Burchell, William John, |d 1782?-1863. 
+400 1_ |a Burchel' 
+700 10 |a Burchell, William John, |d 1782?-1863. |0 (DLC)n 50056199 
+700 17 |a Burchell, William J. |q (William John), |d 1781-1863 |w na |0 
+          (OCoLC)fst01716754 |2 fast 
+

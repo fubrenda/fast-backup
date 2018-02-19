@@ -1,0 +1,16 @@
+00606cz   2200169n  4500
+001 fst00004200
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00004200 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Mead, Richard, |d 1673-1754 
+688 __ |a LC (2016) Subject Usage: 2 
+688 __ |a WC (2016) Subject Usage: 169 
+700 10 |a Mead, Richard, |d 1673-1754 |0 (DLC)n 50013669 
+700 04 |a Richard Mead |0 (uri)http://en.wikipedia.org/wiki/Richard_Mead |9 
+          Feb2015 
+700 10 |a Mead, Richard, |d 1673-1754 |0 (viaf)45083556 |0 
+          (uri)https://viaf.org/viaf/45083556 |9 Feb2015 
+

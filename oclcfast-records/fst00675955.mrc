@@ -1,0 +1,17 @@
+00713cz   2200169n  4500
+001 fst00675955
+003 OCoLC
+005 20161010154854.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00675955 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 1_ |a United States. |b Continental Army. |b Virginia Regiment, 13th 
+510 1_ |a United States. |b Continental Army. |b Virginia Regiment, 9th |0 
+          (OCoLC)fst01504138 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 1 
+710 10 |a United States. |b Continental Army. |b Virginia Regiment, 13th |0 
+          (DLC)n 92027876 
+710 10 |a United States. |b Continental Army. |b Virginia Regiment, 13th |0 
+          (viaf)135011430 |0 (uri)https://viaf.org/viaf/135011430 |9 Feb2015 
+

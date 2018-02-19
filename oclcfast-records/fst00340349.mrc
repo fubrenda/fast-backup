@@ -1,0 +1,13 @@
+00496xz   2200145n  4500
+001 fst00340349
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00340349 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 0_ |a Guºrâun Jâonsdâottir, |d ca. 1769-1840 
+400 1_ |a Jâonsdâottir, Guºrun, |d ca. 1769-1840 
+700 07 |a Guºrâun Jâonsdâottir, |d approximately 1769-1840 |w na |0 
+          (OCoLC)fst01821970 |2 fast 
+700 00 |a Guºrâun Jâonsdâottir, |d ca. 1769-1840 |0 (DLC)nr 94018057 
+

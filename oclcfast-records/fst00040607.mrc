@@ -1,0 +1,16 @@
+00586cz   2200181n  4500
+001 fst00040607
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00040607 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+053 _0 |a PL811.A9 
+100 1_ |a Mayama, Seika, |d 1878-1948 
+400 1_ |a Mayama, Akira, |d 1878-1948 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 13 
+700 10 |a Mayama, Seika, |d 1878-1948 |0 (DLC)n 79089406 
+700 10 |a Mayama, Seika, |d 1878-1948 |0 (viaf)77115337 |0 
+          (uri)https://viaf.org/viaf/77115337 |9 Feb2015 
+

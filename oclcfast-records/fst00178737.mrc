@@ -1,0 +1,12 @@
+00461xz   2200145n  4500
+001 fst00178737
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00178737 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Brabourne, Theophilus, |d b. 1590 
+400 1_ |a Brabourn, Theophilus, |d b. 1590 
+700 17 |a Brabourne, Theophilus, |d 1590- |w na |0 (OCoLC)fst01809287 |2 fast 
+700 10 |a Brabourne, Theophilus, |d b. 1590 |0 (DLC)n 85116305 
+

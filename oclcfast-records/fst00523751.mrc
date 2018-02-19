@@ -1,0 +1,16 @@
+00625cz   2200181n  4500
+001 fst00523751
+003 OCoLC
+005 20120706140721.0
+008 050513nn anznnbabn          || ana     d
+016 7_ |a fst00523751 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+110 2_ |a Liberal Party (P.E.I.) 
+410 2_ |a Liberal Party (Canada) Prince Edward Island 
+410 2_ |a Liberal Party in Prince Edward Island 
+688 __ |a LC (2016) Subject Usage: 1 
+688 __ |a WC (2016) Subject Usage: 2 
+710 20 |a Liberal Party (P.E.I.) |0 (DLC)n 77018641 
+710 20 |a Liberal Party (P.E.I.) |0 (viaf)154715495 |0 
+          (uri)https://viaf.org/viaf/154715495 |9 Feb2015 
+

@@ -1,0 +1,19 @@
+00805cz   2200193n  4500
+001 fst00120007
+003 OCoLC
+005 20120713075002.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00120007 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Leroy-Beaulieu, Anatole, |d 1842-1912 
+400 1_ |a Beaulieu, Anatole Leroy-, |d 1842-1912 
+400 1_ |a Leroy-Beaulieu, A. |q (Anatole), |d 1842-1912 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 6 
+700 10 |a Leroy-Beaulieu, Anatole, |d 1842-1912 |0 (DLC)n 83200685 
+700 04 |a Henri Jean Baptiste Anatole Leroy-Beaulieu |0 
+          (uri)http://en.wikipedia.org/wiki/Henri_Jean_Baptiste_Anatole_Leroy-Beaulieu 
+       |9 Feb2015 
+700 10 |a Leroy-Beaulieu, Anatole, |d 1842-1912 |0 (viaf)73856496 |0 
+          (uri)https://viaf.org/viaf/73856496 |9 Feb2015 
+

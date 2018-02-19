@@ -1,0 +1,15 @@
+00572cz   2200169n  4500
+001 fst00373330
+003 OCoLC
+005 20120706140721.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00373330 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Kobie, Ken®ichi, |d 1969-1992 
+400 1_ |a Hsiao-leng, Hsien-i, |d 1969-1992 
+688 __ |a LC (2016) Subject Usage: 0 
+688 __ |a WC (2016) Subject Usage: 1 
+700 10 |a Kobie, Ken®ichi, |d 1969-1992 |0 (DLC)no 96020011 
+700 10 |a Kobie, Ken®ichi, |d 1969-1992 |0 (viaf)29123694 |0 
+          (uri)https://viaf.org/viaf/29123694 |9 Feb2015 
+

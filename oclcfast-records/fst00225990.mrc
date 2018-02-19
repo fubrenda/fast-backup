@@ -1,0 +1,16 @@
+00645xz   2200169n  4500
+001 fst00225990
+003 OCoLC
+005 20130415152037.0
+008 040924nn anznnbabn          || ana     d
+016 7_ |a fst00225990 |2 OCoLC 
+040 __ |a OCoLC |b eng |c OCoLC |f fast 
+100 1_ |a Radnor, Sarah Robartes, |c Countess of, |d d. 1720 
+400 1_ |a Radnor, |c Countess of |q (Sarah Robartes), |d d. 1720 
+400 1_ |a Robartes, Sarah, |c Countess of Radnor, |d d. 1720 
+400 1_ |a Radnor, |c Lady |q (Sarah Robartes), |d d. 1720 
+700 17 |a Radnor, Sarah Robartes, |c Countess of, |d -1720 |w na |0 
+          (OCoLC)fst01843020 |2 fast 
+700 10 |a Radnor, Sarah Robartes, |c Countess of, |d d. 1720 |0 (DLC)n 
+          87911413 
+
